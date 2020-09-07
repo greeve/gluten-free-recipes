@@ -1,8 +1,8 @@
 Breakfast
 
-# Pumpkin muffins
+## Pumpkin muffins
 
-## Ingredients
+### Ingredients
 
 - 1 3/4 cups Gluten-Free Multi-Grain Flour Blend or White Rice Flour Blend
 - 3/4 cup granulated brown sugar(can use half maple syrup. All maple syrup
@@ -19,7 +19,7 @@ Breakfast
 - 1/2 cup unsweetened almond milk (or other tolerable milk)
 - 2 tablespoons maple syrup
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 350 degrees F. Line or grease a 12-cup standard muffin pan.
 2. In a large bowl, combine the flour, sugar, baking powder, gum, salt, cinnamon, nutmeg, ginger and cloves. Stir well.

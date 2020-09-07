@@ -1,8 +1,8 @@
 Sides
 
-# Slow Cooker Black Beans
+## Slow Cooker Black Beans
 
-## Ingredients
+### Ingredients
 
 - 1 1/2 cups dried black beans, picked over, rinsed, soaked overnight and rinsed again
 - 1 cup salsa (I used mild since I was serving it to children)
@@ -16,7 +16,7 @@ Sides
 - 1-2 tbsp coconut oil or olive oil (optional, but it adds a richness to the beans many            enjoy)
 - 1/2 tbsp salt  or to taste
 
-## Instructions
+### Instructions
 
 1. Soak Beans the night before. Rinse before putting them in your crockpot.
 2. Combine ingredients EXCEPT SALT in your slow cooker. You will add this after cooking.

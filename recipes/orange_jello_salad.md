@@ -1,8 +1,8 @@
 Sides
 
-# Orange Jello Salad
+## Orange Jello Salad
 
-## Ingredients
+### Ingredients
 
 - 6 ounces jello (orange flavored, unprepared)
 - 16 ounces cottage cheese
@@ -11,11 +11,11 @@ Sides
 - 8 ounces cool whip (thawed)
 - Small Marshmallows (optional)
 
-## Instructions
+### Instructions
 
 1. Mix all ingredients.
 2. Refrigerate for 2 hours before serving. 
 
-## Note
+### Note
 
 Could also do a Red Jello salad with strawberry jello and strawberries instead of pineapples and mandarin oranges

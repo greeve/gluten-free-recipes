@@ -1,8 +1,8 @@
 Breakfast
 
-# Cottage Cheese and Fruit
+## Cottage Cheese and Fruit
 
-## Ingredients
+### Ingredients
 
 - Cottage cheese
 - Fruit: canned peaches, canned pears, berries, watermelon, etc...

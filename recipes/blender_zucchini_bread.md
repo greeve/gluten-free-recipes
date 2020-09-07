@@ -1,8 +1,8 @@
 Breakfast
 
-# Blender Zucchini Bread
+## Blender Zucchini Bread
 
-## Ingredients
+### Ingredients
 
 - 1 cup neutral oil such as avocado or canola
 - 3 large eggs
@@ -16,13 +16,13 @@ Breakfast
 - 2 tsp Baking Soda
 - 1 1/2 tsp cinnamon
 
-### Chocolate Zucchini Bread
+#### Chocolate Zucchini Bread
 
 - 2-4 T cocoa powder
 - 1 1/2 cups mini chocolate chips
 - additional 1/2 tsp baking soda
 
-## Instructions
+### Instructions
 
 1. Blend oil, eggs, vanilla and 2 1/2 cups zucchini together in a blender until you have 4 cups mixture. Add more zucchini if needed to reach the 4 cups.
 2. Add remaining ingredients and blend until smooth.

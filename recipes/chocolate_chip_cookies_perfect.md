@@ -1,8 +1,8 @@
 Dessert
 
-# Chocolate Chip Cookies (perfect but more time)
+## Chocolate Chip Cookies (perfect but more time)
 
-## Ingredients
+### Ingredients
 
 - 2 1/4 cups Bob's Red Mill 1-to-1 all purpose baking flour (blend should include xanthan gum)
 - 1 tsp. baking soda
@@ -15,7 +15,7 @@ Dessert
 - 2 large egg yolks, room temperature
 - 2 cups semi-sweet chocolate chips
 
-## Instructions
+### Instructions
 
 1. Mix together flour, baking soda and salt in a medium bowl and set aside.
 2. In your standing mixer using the paddle attachment, add cream cheese, melted butter, brown sugar and sugar. Mix on medium speed for 2 minutes.

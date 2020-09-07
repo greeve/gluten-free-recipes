@@ -1,8 +1,8 @@
 Breakfast
 
-# Breakfast Burritos
+## Breakfast Burritos
 
-## Ingredients
+### Ingredients
 
 - Oil Spray 
 - Corn tortillas
@@ -14,7 +14,7 @@ Breakfast
 - Salsa 
 
 
-## Instructions
+### Instructions
 
 1. Heat a frying pan and spray with oil spray. 
 2. Cook tortillas just until light brown on both sides and remove (keeping warm). 

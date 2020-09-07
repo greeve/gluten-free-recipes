@@ -1,8 +1,8 @@
 Breakfast
 
-# Smoothies
+## Smoothies
 
-## Ingredients
+### Ingredients
 
 - 1 cup of liquid base (choose one)
     - almond milk
@@ -14,7 +14,7 @@ Breakfast
 - Frozen fruit
 
 
-## Instructions
+### Instructions
 
 1. In a blender add the liquid base
 2. Add spinach (optional)

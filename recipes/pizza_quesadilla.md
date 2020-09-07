@@ -1,8 +1,8 @@
 Lunch
 
-# Pizza Quesadilla
+## Pizza Quesadilla
 
-## Ingredients
+### Ingredients
 
 - 2 Corn Tortillas or other gluten-free tortilla of choice
 - 1/4 cup shredded mozzarella see notes for dairy-free/vegan modifcation
@@ -11,7 +11,7 @@ Lunch
 - 1/2 cup tomato sauce of choice
 - gluten-free cooking spray
 
-## Instructions
+### Instructions
 
 1. Heat pan on medium heat. 
 2. Once heated, spray with cooking spray and lay a tortilla on top of the pan. 

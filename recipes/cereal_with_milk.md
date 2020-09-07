@@ -1,8 +1,8 @@
 Breakfast
 
-# Cereal with Milk
+## Cereal with Milk
 
-## Ingredients
+### Ingredients
 
 - Chex
 - Cheerios
@@ -12,7 +12,7 @@ Breakfast
 - bowl
 - spoon
 
-## Instructions
+### Instructions
 
 1. Choose a cereal to eat
 2. Pour the cereal in the bowl

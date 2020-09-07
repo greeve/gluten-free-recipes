@@ -1,10 +1,10 @@
-Dinner
+Dinner/American
 
-# Sausage Skillet
+## Sausage Skillet
 
 Takes 45 min. to make and feeds 6 people
 
-## Ingredients
+### Ingredients
 
 - 1 sausage (can add more if you like meat)
 - 6-7 potatoes (depending how big)
@@ -15,7 +15,7 @@ Takes 45 min. to make and feeds 6 people
 - Pepper
 - Your favorite seasoning(optional)
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 400. 
 2. Cut up potatoes into cubes and put in a bowl. 

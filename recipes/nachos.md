@@ -1,8 +1,8 @@
 Lunch
 
-# The Very Best Nachos
+## The Very Best Nachos
 
-## Ingredients
+### Ingredients
 
 - 4 cups tortilla chips
 - 1 pound ground turkey
@@ -16,7 +16,7 @@ Lunch
 - 1/4 cup chopped fresh scallions
 - 1/4 cup chopped fresh cilantro
 
-## Instructions
+### Instructions
 
 1. In a large skillet, brown the turkey over medium heat until no longer pink. Drain off the fat and return to the heat.
 2. Stir in the taco seasoning mix and 2/3 cup water. Bring the mixture to a boil, then turn down the heat and simmer for 5 minutes. Set aside.

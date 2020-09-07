@@ -1,8 +1,8 @@
 Dinner/Soups-Crockpot
 
-# Zuppa Toscano
+## Zuppa Toscano
 
-## Ingredients
+### Ingredients
 
 - 1 pound Italian sausage
 - 3 russet potatoes, sliced into wedges then halved
@@ -13,7 +13,7 @@ Dinner/Soups-Crockpot
 - 1 cup heavy cream
 - Salt and pepper, to taste
 
-## Instructions
+### Instructions
 
 1. Brown Italian sausage in a large skillet over medium-high heat, about 5 minutes. Drain and discard fat.
 2. Combine all ingredients except cream and kale in slow cooker. Cook on low 7-8 hours, or on high for 4-5. 

@@ -1,8 +1,8 @@
 Dinner/Soups-Crockpot
 
-# Chicken Noodle Soup
+## Chicken Noodle Soup
 
-## Ingredients
+### Ingredients
 
  - 3 boneless skinless chicken breasts 
 - 1 yellow onion
@@ -15,7 +15,7 @@ Dinner/Soups-Crockpot
 - Gluten free egg Noodles or brown rice noodles
  - kosher salt and fresh ground pepper
 
-## Instructions
+### Instructions
 
 1. Chop all of your veggies and set aside.
 2. In a medium-large soup pot submerge your raw chicken in the chicken stock and boil until cooked.

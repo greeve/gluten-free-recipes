@@ -1,8 +1,8 @@
 Dessert
 
-# Monster Cookies
+## Monster Cookies
 
-## Ingredients
+### Ingredients
 
 - 3 large eggs
 - 1 1/2 cups Palm Coconut sugar (or brown sugar if you’d like)
@@ -14,7 +14,7 @@ Dessert
 - 4 1/2 cups (18 ounces) gluten free old fashion oats (blend in blender a little)
 - 1 cup (6 ounces) milk chocolate, semisweet, or bittersweet chocolate chips
 
-## Instructions
+### Instructions
 
 1. Preheat the oven to 350 degrees F. Line cookie sheets with parchment paper, liners or lightly grease with cooking spray.
 2. In a large mixing bowl with a handheld electric mixer (or in a stand mixer fitted with the paddle attachment), add the eggs and sugar. Mix well.

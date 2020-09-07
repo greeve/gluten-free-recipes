@@ -1,8 +1,8 @@
 Dinner/Mexican
 
-# Taquitos
+## Taquitos
 
-## Ingredients
+### Ingredients
 
 - 1 lb. cooked shredded chicken
 - salt and pepper
@@ -10,7 +10,7 @@ Dinner/Mexican
 - 12 corn tortillas or more
 - toothpicks
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 400 degrees. 
 2. Add salt and pepper (and other seasonings) to shredded chicken, cook tortillas in oil in a frying pan to soften (they should not be crispy). 

@@ -1,8 +1,8 @@
 Dessert
 
-# Texas Sheet Cake
+## Texas Sheet Cake
 
-## Ingredients
+### Ingredients
 
 - 3 cups GF flour
 - 3 tsp. Xanthun gum
@@ -16,7 +16,7 @@ Dessert
 - 1 tsp. Vanilla
 - 2 cups water
 
-## Instructions
+### Instructions
 
 1. Mix wet. 
 2. Mix dry. 

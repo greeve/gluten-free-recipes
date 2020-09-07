@@ -1,8 +1,8 @@
-Dinner
+Dinner/American
 
-# Chili (Best Turkey Chili)
+## Chili (Best Turkey Chili)
 
-## Ingredients
+### Ingredients
 
 - 1 pound lean ground turkey (or canned chicken)
 - 1 13oz (or more) turkey sausage, diced and cooked (over the stove in a frying pan with a little oil)
@@ -21,7 +21,7 @@ Dinner
 - 1/2 teaspoon pepper
 - 1 teaspoon salt
 
-## Instructions
+### Instructions
 
 1. In a large saucepan, cook the turkey, onion and green pepper over medium heat until meat is no longer pink. 
 2. Add garlic and cook 1 minute longer. 

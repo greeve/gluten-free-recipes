@@ -1,8 +1,8 @@
 Breads
 
-# Corn Bread
+## Corn Bread
 
-## Ingredients
+### Ingredients
 
 - 1 cup flour (GF)(with xanthin gum)
 - 1 cup cornmeal
@@ -13,7 +13,7 @@ Breads
 - 1 cup milk (or powdered milk)
 - 1/3 cup oil
 
-## Instructions
+### Instructions
 
 1. Mix dry ingredients together in large bowl.
 2. Mix wet ingredients in another bowl; then combine with dry and stir till combined.

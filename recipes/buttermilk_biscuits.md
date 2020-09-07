@@ -1,8 +1,8 @@
 Breads
 
-# Buttermilk biscuits
+## Buttermilk biscuits
 
-## Ingredients
+### Ingredients
 
 - 2 cups gluten-free flour blend (see notes)
 - 1 teaspoon xanthan gum (omit if your flour blend contains it)
@@ -12,7 +12,7 @@ Breads
 - 6 tablespoons (87 g) unsalted butter, cubed and very cold
 - ¾ cup (188 ml) buttermilk, cold + 1 tablespoon, divided
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 425 degrees and grease a baking sheet or line it with a silicone baking mat or parchment paper.
 2. Add the gluten-free flour, xanthan gum, salt, baking powder, and baking soda to a large bowl and whisk together.

@@ -1,8 +1,8 @@
 Dinner/Mexican
 
-# Mexican Lasagna
+## Mexican Lasagna
 
-## Ingredients
+### Ingredients
 
 - 1 pound lean ground turkey
 - 1 tablespoon olive oil
@@ -23,7 +23,7 @@ Dinner/Mexican
 - 2 scallions, finely chopped
 - 2 tablespoons chopped cilantro
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 425°F.
 2. Drizzle olive oil into a large skillet, over medium high heat. Add meat, onion, paprika, cumin, chili powder, salt and pepper to skillet. Brown beef for about 5-7 minutes. Add tomatoes and beans. Stir to combine. Allow to cook while you begin preparing the baking pan.

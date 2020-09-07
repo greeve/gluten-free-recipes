@@ -1,8 +1,8 @@
 Snacks
 
-# Cowboy Salsa and Chips
+## Cowboy Salsa and Chips
 
-## Ingredients
+### Ingredients
 
 - 3 Roma tomatoes seeds removed, diced
 - 2 ripe avocados diced
@@ -14,7 +14,7 @@ Snacks
 - ⅓ cup Cilantro finely chopped
 - Tortilla chips for serving
 
-### Dressing 
+#### Dressing 
 
 - 1/3 cup olive oil
 - 2 Tablespoons lime juice fresh preferred
@@ -24,7 +24,7 @@ Snacks
 - 1/2 teaspoon pepper
 - 1/4 teaspoon garlic powder
 
-## Instructions
+### Instructions
 
 1. Combine tomatoes, avocado, onion, black beans, black eyed peas, corn, pepper, jalapeno pepper, and cilantro in a large bowl. Toss/stir well so that ingredients are well-combined.
 2. In a separate bowl, whisk together olive oil, lime juice, red wine vinegar, sugar, salt, pepper, and garlic powder.

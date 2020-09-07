@@ -1,8 +1,8 @@
-Dinner
+Dinner/Asian
 
-# Fried Rice
+## Fried Rice
 
-## Ingredients
+### Ingredients
 
 - 2 bags of boil-in-a-bag brown rice
 - Veggies of choice
@@ -17,7 +17,7 @@ Dinner
 - 3 chicken breasts
 - eggs
 
-## Instructions
+### Instructions
 
 1. Start with 2 bags of boil in a bag brown rice (I can't cook rice unless it's boil in a bag!) prepare that and drain the water.  
 2. While your rice is cooking, grab some veggies, anything you have on hand! Broccoli, cauliflower, asparagus, carrots, green beans, sweet onion, peppers, really any combination of 3 or more veggies that you have on hand. Chop them up and sauté in 1 tsp of coconut oil and 1/4 cup of water with a dash of each: Ginger, garlic, red pepper flakes, soy sauce, sea salt and pepper.

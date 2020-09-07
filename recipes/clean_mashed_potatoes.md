@@ -1,6 +1,6 @@
 Sides
 
-# Clean Mashed Potatoes
+## Clean Mashed Potatoes
 
 - 2 russet potatoes
 - 3/4 cup plain greek yogurt
@@ -11,7 +11,7 @@ Sides
 - 2 cloves of minced garlic
 - 1 tbsp almond milk
 
-## Instructions
+### Instructions
 
 1. Chop 2 large russet potatoes into cubes and place into water. 
 2. Boil until soft. 

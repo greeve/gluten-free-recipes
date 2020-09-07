@@ -1,8 +1,8 @@
 Sides
 
-# Cucumber/Tomato/Avocado Salad
+## Cucumber/Tomato/Avocado Salad
 
-## Ingredients
+### Ingredients
 
 - 1 lb Roma tomatoes
 - 1 English cucumber
@@ -14,7 +14,7 @@ Sides
 - 1 tsp sea salt or ¾ tsp table salt
 - ⅛ tsp black pepper
 
-## Instructions
+### Instructions
 
 1. Place chopped tomatoes, sliced cucumber, sliced red onion, diced avocado, and chopped cilantro into a large salad bowl.
 2. Drizzle with 2 Tbsp olive oil and 2 Tbsp lemon juice. Toss gently to combine. Just before serving, toss with 1 tsp sea salt and ⅛ tsp black pepper.

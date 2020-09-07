@@ -1,8 +1,8 @@
 Lunch
 
-# Homemade Mac & Cheese
+## Homemade Mac & Cheese
 
-## Ingredients
+### Ingredients
 
 - GF noodles
 - 2 T. Butter
@@ -12,7 +12,7 @@ Lunch
 - 1 tsp. salt 
 - Dash of pepper
 
-## Instructions
+### Instructions
 
 1. Boil GF noodles in a pot according to instructions. 
 2. Drain and rinse the noodles with cold water.

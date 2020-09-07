@@ -1,14 +1,14 @@
 Dessert
 
-# Rice Krispie Treats
+## Rice Krispie Treats
 
-## Ingredients
+### Ingredients
 
 - 3 tablespoons butter
 - 1 package (10 oz., about 40) Big Marshmallows OR 4 cups Miniature Marshmallows
 - 6 cups Rice cereal
 
-## Instructions
+### Instructions
 
 1. In large saucepan melt butter over low heat. Add marshmallows and stir until completely melted. Remove from heat.
 2. Add GF Rice Krispie cereal (Malt O Meal is a good brand). Stir until well coated.

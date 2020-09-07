@@ -1,8 +1,8 @@
-Dinner
+Dinner/American
 
-# One Pan Italian Sausage and Veggies
+## One Pan Italian Sausage and Veggies
 
-## Ingredients
+### Ingredients
 
 - 2 large carrots ~2 cups
 - 2 red potatoes ~2 cups
@@ -11,16 +11,23 @@ Dinner
 - 1 head broccoli ~1 and 1/2 cups
 - 16 ounces Smoked Italian Turkey or Chicken Sausage
 
-### Seasonings
+#### Seasonings
 
-- 1/2 tablespoon EACH: dried basil, dried oregano, dried parsley, garlic powder
-- 1/2 teaspoon EACH: onion powder, dried thyme
+- 1/2 tablespoon
+	- dried basil
+	- dried oregano
+	- dried parsley
+	- garlic powder
+- 1/2 teaspoon
+	- onion powder
+	- dried thyme
 - 1/8 teaspoon red pepper flakes optional
 - 1/3 cup Parmesan cheese freshly grated, optional
 - 4 and 1/2 tablespoons olive oil
-- Optional: fresh parsley, salt and pepper
+- fresh parsley (optional)
+- salt and pepper (optional)
 
-## Instructions
+### Instructions
 
 1. Preheat the oven to 400 degrees F. 
 2. Line a large sheet pan with parchment paper or foil (easy clean-up) and set aside. 

@@ -1,10 +1,10 @@
 Breakfast
 
-# Crepes
+## Crepes
 
 Servings: 12
 
-## Ingredients
+### Ingredients
 
 2 eggs
 1 cup almond milk
@@ -14,7 +14,7 @@ Servings: 12
 1 tablespoon butter more for pan as needed
 
 
-## Instructions
+### Instructions
 
 1. In a food processor, add the eggs, milk, and salt and process until blended.
 2. With the motor on low, slowly add the flours, stopping occasionally to scare down the sides.

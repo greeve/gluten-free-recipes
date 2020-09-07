@@ -1,8 +1,8 @@
 Dinner/Asian
 
-# Pad Thai
+## Pad Thai
 
-## Ingredients
+### Ingredients
 
 - 8 ounces dried rice noodles
 - 1/4 cup GF soy sauce
@@ -19,7 +19,7 @@ Dinner/Asian
 - 1 tablespoon lime juice
 - Any vegetables: broccoli, carrots, etc..
 
-## Instructions
+### Instructions
 
 1. In a large bowl, combine the noodles with enough warm water to cover. Soak until just tender, about 30 minutes, then drain and set aside.
 2. Using a small bowl, combine the soy sauce, vinegar, crushed red pepper, and sugar; stir until the sugar dissolves and is well blended. Set aside.

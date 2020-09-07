@@ -1,8 +1,8 @@
 Dinner/Italian
 
-# Lasagna
+## Lasagna
 
-## Ingredients
+### Ingredients
 
 - 2.5 lb. ground turkey 
 - 1 1/2 cups minced yellow onion 
@@ -23,7 +23,7 @@ Dinner/Italian
  - 11 lasagna noodles 
 - (add 1/2 tsp. salt and 1 Tablespoon of olive oil to pasta water) 
 
-## Instructions 
+### Instructions 
 
 1. Bring a large pot of water to a boil.
  2. Meanwhile, in a large oiled skillet or saucepan, sauté the onions. When onions are clear combine ground turkey, salt, pepper, and garlic. Cook over medium-high heat until browned. Drain half the fat. Add tomatoes, tomato paste, 2 tablespoons parsley, basil and salt. After adding the tomatoes, the sauce mixture should simmer for 45 minutes while you are working on the other steps.

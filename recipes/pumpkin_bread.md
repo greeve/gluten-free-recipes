@@ -1,8 +1,8 @@
 Breads
 
-# Pumpkin Bread
+## Pumpkin Bread
 
-## Ingredients
+### Ingredients
 
 - 1/2 cup butter, softened
 - 2 1/4 cups maple syrup (or another sugar if you want)
@@ -16,7 +16,7 @@ Breads
 - 1 1/2 teaspoons ground nutmeg
 - 1 (16 ounce) can solid pack pumpkin
 
-## Instructions
+### Instructions
 
 1. In a mixing bowl, cream butter and syrup or sugar. 
 2. Add eggs; mix well. 

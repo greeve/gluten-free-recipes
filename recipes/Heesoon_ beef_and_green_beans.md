@@ -1,8 +1,8 @@
 Dinner/Asian
 
-# Heesoon's Beef and Green Beans
+## Heesoon's Beef and Green Beans
 
-## Ingredients
+### Ingredients
 
 - 1 lb. thin sliced beef
 - 1/4 c. GF Soy Sauce or Liquid Aminos
@@ -13,7 +13,7 @@ Dinner/Asian
 - 4 cups of water
 - salt and pepper to taste
 
-## Instructions
+### Instructions
 
 1. Marinate beef with marinade (1/8 cup of soy sauce and all of garlic) in a ziplock bag.  Let sit in the fridge for at least an hour. The more the better!
 2. Put water and rice in rice cooker and cook on rice setting.

@@ -1,8 +1,8 @@
-Dinner
+Dinner/American
 
-# Honey Mustard Chicken
+## Honey Mustard Chicken
 
-## Ingredients
+### Ingredients
 
 - 1/3 cup dijon mustard
 - 1/3 cup honey
@@ -10,7 +10,7 @@ Dinner
 - 1 tsp. Freshly grated orange peel
 - 1 (2 1/2 lb) chicken, quartered
 
-## Instructions
+### Instructions
 
 1. Heat oven to 400 degrees. 
 2. Combine mustard and honey in small bowl. 

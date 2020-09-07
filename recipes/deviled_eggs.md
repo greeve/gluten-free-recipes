@@ -1,8 +1,8 @@
 Sides
 
-# Classic Deviled Eggs
+## Classic Deviled Eggs
 
-## Ingredients
+### Ingredients
 
 - 6 eggs
 - 1/4 cup mayonnaise
@@ -13,7 +13,7 @@ Sides
 - Smoked Spanish paprika, for garnish
 - Optional yolk mixture: curry powder, sweet relish or dill relish...
 
-## Instructions
+### Instructions
 
 1. Place eggs in a single layer in a saucepan and cover with enough water that there's 1 1/2 inches of water above the eggs. 
 2. Heat on high until water begins to boil, then cover, turn the heat to low, and cook for 1 minute. Remove from heat and leave covered for 14 minutes, then rinse under cold water continuously for 1 minute.

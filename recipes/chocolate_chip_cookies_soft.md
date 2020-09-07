@@ -1,8 +1,8 @@
 Dessert
 
-# Chocolate Chip Cookies (soft)
+## Chocolate Chip Cookies (soft)
 
-## Ingredients
+### Ingredients
 
 - 2 1/2 cups Grandpa’s Kitchen GF Flour (it can be any GF Flour as long as it has xanthum gum in it)
 - 1 tsp. baking soda
@@ -13,7 +13,7 @@ Dessert
 - 2 eggs
 - 2 cups chocolate chips (12 oz. pkg.)
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 375 degrees F. 
 2. Combine flour, baking soda and salt in small bowl. 

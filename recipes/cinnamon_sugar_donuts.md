@@ -1,8 +1,8 @@
 Breakfast
 
-# Cinnamon Sugar Donuts
+## Cinnamon Sugar Donuts
 
-## Ingredients
+### Ingredients
 
 - 1 cup gluten-free flour blend
 - 1/3 cup brown sugar, packed
@@ -17,7 +17,7 @@ Breakfast
 - 1/4 cup granulated sugar
 - 1 teaspoon cinnamon
 
-## Instructions
+### Instructions
 
 1. In a separate small mixing bowl, combine the sugar and cinnamon for the coating.
 2. Preheat oven to 425°F. Grease one six-serving donut pan; set aside.

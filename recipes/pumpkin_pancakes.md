@@ -1,8 +1,8 @@
 Breakfast
 
-# Pumpkin pancakes
+## Pumpkin pancakes
 
-## Ingredients
+### Ingredients
 
 - 1 1/4 cups GF flour
 - 1 tsp. xanthum gum
@@ -18,7 +18,7 @@ Breakfast
 - 2 tablespoons melted butter or coconut oil
 - 1 egg
 
-## Instructions
+### Instructions
 
 1. Whisk flour, sugar, baking powder, spices and salt in a bowl.
 2. In a separate bowl whisk together milk, pumpkin, melted butter, and egg.

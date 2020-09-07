@@ -1,8 +1,8 @@
 Dinner/Soups-Crockpot
 
-# Beef Taco Tortilla Soup
+## Beef Taco Tortilla Soup
 
-## Ingredients
+### Ingredients
 
 - 1 lb ground beef SAVE $
 - 1 sweet onion, diced
@@ -19,7 +19,7 @@ Dinner/Soups-Crockpot
 - Avocado
 - Sour cream
 
-## Instructions
+### Instructions
 
 1. In a large soup pot or Dutch oven over medium heat, brown the ground beef, breaking meat up as it cooks. Add onion and garlic. Continue cooking until beef is cooked through and no longer pink. 
 2. Drain liquid from pan. Add the taco seasoning, tomatoes, corn, chiles, beans, cilantro and chicken broth to the pot and stir to combine. 

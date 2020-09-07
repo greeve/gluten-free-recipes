@@ -1,8 +1,8 @@
 Lunch
 
-# Corn Tortilla Quesadilla or Bean and Cheese Burrito
+## Corn Tortilla Quesadilla or Bean and Cheese Burrito
 
-## Ingredients
+### Ingredients
 
 - Butter (for the pan)
 - Corn tortillas
@@ -15,7 +15,7 @@ Lunch
     - tomatoes
     - guacamole
 
-## Instructions
+### Instructions
 
 1. Melt the butter in the pan on medium/high heat. 
 2. Place tortilla on the pan. 

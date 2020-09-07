@@ -1,8 +1,8 @@
-Dinner/American-Indian
+Dinner/American
 
-# Frito Salad
+## Frito Salad
 
-## Ingredients
+### Ingredients
 
 - 4 big tomatoes, diced
 - 2 green peppers, diced
@@ -12,7 +12,7 @@ Dinner/American-Indian
 - shredded cheese (optional)  
 - 2-3 bags of regular Fritos
 
-## Instructions
+### Instructions
 
 1. Mix all ingredients except for the cheese and Frito chips.
 2. Serve over Frito chips and sprinkle with cheese. 

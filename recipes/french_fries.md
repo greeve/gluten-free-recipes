@@ -1,11 +1,11 @@
 Sides
 
-# French Fries
+## French Fries
 
-## Ingredients
+### Ingredients
 
 - Orieda brand potatoes
 
-## Instructions
+### Instructions
 
 1. Bake as instructions say on a pan lined with parchment paper.

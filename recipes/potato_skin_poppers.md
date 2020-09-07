@@ -1,8 +1,8 @@
 Sides
 
-# Potato Skin Poppers
+## Potato Skin Poppers
 
-## Ingredients
+### Ingredients
 
 - 1 bag (28 ounces) baby yukon potatoes
 - 1 tablespoon olive oil
@@ -12,7 +12,7 @@ Sides
 - ¼ cup plain non fat Greek yogurt
 - ¼ cup diced green onions
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 400 degrees; line baking sheet with parchment paper.
 2. Arrange potatoes on baking sheet and poke several holes into potatoes with a knife.

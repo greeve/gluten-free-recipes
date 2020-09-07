@@ -1,8 +1,8 @@
 Dinner/Soups-Crockpot
 
-# Sausage and Black Bean Soup
+## Sausage and Black Bean Soup
 
-## Ingredients
+### Ingredients
 
 - 1 tablespoon vegetable oil
 - 1 onion, chopped
@@ -15,7 +15,7 @@ Dinner/Soups-Crockpot
 - 12 ounces beef sausage
 - 1/4 cup chopped fresh cilantro
 
-## Instructions
+### Instructions
 
 1. In a large saucepan over medium heat, combine the oil, onions and garlic. Saute for 8 minutes, or until tender. Add the beans, tomatoes with liquid, broth, salsa and water. Bring to a boil over high heat.
 2. Cut sausage into 1/2 inch slices and stir into soup. Reduce heat to low, cover and simmer for 15 minutes, stirring occasionally. Ladle soup into bowls and sprinkle with cilantro.

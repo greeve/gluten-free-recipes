@@ -1,18 +1,18 @@
 Dessert
 
-# Mini Pumpkin Pies or 2 Pumpkin Pies
+## Mini Pumpkin Pies or 2 Pumpkin Pies
 
-## Ingredients
+### Ingredients
 
- - 2 Pie crusts from my 2 pie crust recipe (Apple pie recipe)
+- 2 Pie crusts from my 2 pie crust recipe (Apple pie recipe)
 - 1 (15 oz) can pureed pumpkin 
 - 2 eggs 
 - 1 (14 oz) can sweetened condensed milk
- - 1 Tbsp pumpkin pie spice 
+- 1 Tbsp pumpkin pie spice 
 - 1/4 tsp table salt
- - Plus whipped cream for topping
+- Plus whipped cream for topping
 
-## Instructions
+### Instructions
 
 1. Preheat your oven to 425°F. Spray a 12-cup muffin tin with non-stick spray.
 2. Cut as many 5 inch circles (either using a round cutter or a bowl or glass) as you can out of each pie crust, and fit them into each tin, crimping over the sides as necessary. Reroll the scraps if needed to get 12 crusts. 3. In a bowl or a 4 cup glass measuring cup (I used the measuring cup so I could pour it into each muffin tin directly without dirtying another bowl), whisk together the pumpkin, pumpkin pie spice, sweetened condensed milk, eggs and salt.

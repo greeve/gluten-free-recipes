@@ -1,8 +1,8 @@
 Sides
 
-# Sweet Potato fries
+## Sweet Potato fries
 
-## Ingredients
+### Ingredients
 
 - 2 lbs. sweet potatoes, peeled 
 - 2 Tbsp. avocado oil, or olive oil
@@ -11,7 +11,7 @@ Sides
 - 1 tsp sea salt
 - ½ tsp fresh ground black pepper
 
-## Instructions 
+### Instructions 
 
 1. Preheat your oven to 400 f.
 2. Cut the sweet potatoes into sticks 1/2 inch wide and 3 inches long, and toss with oil. 3. Whisk all the spices together, with salt and pepper in a small bowl, and toss with the sweet potatoes. 

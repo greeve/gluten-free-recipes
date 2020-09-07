@@ -1,8 +1,8 @@
 Sides
 
-# Potato & Broccoli Medallions
+## Potato & Broccoli Medallions
 
-## Ingredients
+### Ingredients
 
 - 4 large russet potatoes
 - 1 1/2 cup broccoli florets
@@ -13,7 +13,7 @@ Sides
 - 2 green onions, finely chopped
 - 1 egg
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 375ºF. 
 2. Line a large cookie sheet with parchment paper.

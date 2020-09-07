@@ -1,7 +1,7 @@
 Sides
 
-# Jello
+## Jello
 
-## Instructions
+### Instructions
 
 1. Follow instructions on the box.

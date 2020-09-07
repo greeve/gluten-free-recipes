@@ -1,8 +1,8 @@
 Snacks
 
-# Trail Mix (Customizable recipe)
+## Trail Mix (Customizable recipe)
 
-## Ingredients
+### Ingredients
 
 - 1 1/2 cups raw nuts
     - almonds
@@ -25,7 +25,7 @@ Snacks
     - 1/2 tsp cinnamon
     - pinch of nutmeg (optional)
 
-## Instructions
+### Instructions
 
 1. Combine all ingredients in a large bowl and mix well.
 2. Store in a ziploc bag or mason jar.

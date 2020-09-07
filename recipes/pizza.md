@@ -1,8 +1,8 @@
 Dinner/Italian
 
-# Pizza
+## Pizza
 
-## Ingredients
+### Ingredients
 
 - 6 cups of Gluten Free Flour( with xanthum gum)
 - 4 tsp. Xanthum gum(if flour doesn’t have it)
@@ -15,7 +15,7 @@ Dinner/Italian
 - 2 tbs. baking powder
 - 1 Tbs sugar to the yeast and water mixed
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 450.
 2. Combine water, sugar and yeast and let sit until foamy. 

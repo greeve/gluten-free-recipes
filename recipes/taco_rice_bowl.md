@@ -1,8 +1,8 @@
 Dinner/Mexican
 
-# Taco Rice Bowls
+## Taco Rice Bowls
 
-## Ingredients
+### Ingredients
 
 - 1 lb. ground turkey
 - 1/2-1 taco seasoning packet
@@ -25,7 +25,7 @@ Dinner/Mexican
 - 1/2 cup sour cream
 - hot sauce or salsa
 
-## Instructions
+### Instructions
 
 1. Cook brown rice. Drain and drizzle with lime (or lemon) juice.
 2. Add ground turkey to a skillet with oil and cook over medium heat. Cook, breaking into small pieces with a wooden spoon, until browned. Remove grease.

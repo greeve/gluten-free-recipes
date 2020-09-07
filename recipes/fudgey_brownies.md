@@ -1,10 +1,10 @@
 Dessert
 
-# Fudgey Brownies
+## Fudgey Brownies
 
 Yields 16 brownies
 
-## Ingredients
+### Ingredients
 
 - 2/3 cup semi-sweet or dark chocolate chips (I use dairy free chocolate chips)
 - 5 Tbsp coconut oil (can sub butter, avocado oil, vegan butter, ghee)
@@ -18,7 +18,7 @@ Yields 16 brownies
 - 2/3 cup additional chocolate chips or chopped chocolate (can sub nuts)
 - coarse sea salt to sprinkle on top (optional)
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 350 degrees. Line an 8×8 baking pan with parchment paper or spray with nonstick spray.
 2. In a small saucepan, gently melt chocolate and oil over low heat until smooth and glossy. Remove from heat and set aside to cool slightly.

@@ -1,8 +1,8 @@
 Breakfast
 
-# Veggie omelets
+## Veggie omelets
 
-## Ingredients
+### Ingredients
 
 - 1/2 Tbsp. butter
 - 2 Tbsp. onion chopped
@@ -18,7 +18,7 @@ Breakfast
 - salsa (optional)
 - guacamole (optional)
 
-## Instructions
+### Instructions
 
 1. Prepare your fillings. Heat butter in a small frying pan over medium heat. Add onions and mushrooms and saute until onions become clear. Add spinach and tomatoes. When spinach has wilted, remove from heat and cover with lid or foil to keep warm.
 2. Crack the eggs into a mixing bowl and whisk until eggs become light yellow in color. Set aside. Pour oil into In an 8" pan (you don't want to do a smaller pan or the eggs won't cook as well) and swirl around until pan in evenly coated with oil. Put pan on the stove over medium-low heat.

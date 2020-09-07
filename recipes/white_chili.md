@@ -1,8 +1,8 @@
-Dinner
+Dinner/Soups-Crockpot
 
-# White Chili
+## White Chili
 
-## Ingredients
+### Ingredients
 
 - 1 1/2 lbs. chicken, cooked and diced
 - 4 15 oz. cans white beans
@@ -17,7 +17,7 @@ Dinner
 - 2 Cups Monterey Jack Cheese, shredded
 - Avocados (sliced and on the side)
 
-## Instructions
+### Instructions
 
 1. Combine all ingredients except for cheese. 
 2. Simmer for 1 hour. 

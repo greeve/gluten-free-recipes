@@ -1,8 +1,8 @@
 Snacks
 
-# Energy Balls
+## Energy Balls
 
-## Ingredients
+### Ingredients
 
 - 1 cup (dry) oatmeal (Old Fashioned, gluten free)
 - 1/2 cup peanut butter
@@ -11,7 +11,7 @@ Snacks
 - 1/3 cup honey or agave nectar
 - 1 teaspoon vanilla extract
 
-## Instructions
+### Instructions
 
 1. Stir all ingredients together in a large bowl until combined. 
 2. Once the mixture is combined, put it in the fridge for 10-20 minutes so that it will harden slightly.  This will help make it easier to roll it into balls.

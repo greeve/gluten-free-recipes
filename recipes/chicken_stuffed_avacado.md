@@ -1,8 +1,8 @@
 Lunch
 
-# Chicken Stuffed Avacados
+## Chicken Stuffed Avacados
 
-## Ingredients
+### Ingredients
 
 - 2 avocados, pitted
 - 2 c. shredded rotisserie chicken
@@ -15,7 +15,7 @@ Lunch
 - Freshly ground black pepper
 - Chopped parsley, for garnish
 
-## Instructions
+### Instructions
 
 1. Scoop out avocados, leaving a small border. Dice avocado and set aside.
 2. Make chicken salad: In a large bowl, mix together chicken, onion, mayo, greek yogurt, lemon juice, and mustard. Fold in avocado. Season with salt and pepper.

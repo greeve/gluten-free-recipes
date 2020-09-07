@@ -1,8 +1,8 @@
 Breakfast
 
-# Buttermilk pancakes
+## Buttermilk pancakes
 
-## Ingredients
+### Ingredients
 
 - 3 large eggs
 - 1 cup milk
@@ -15,7 +15,7 @@ Breakfast
 - 1/2 tsp baking soda
 - 1/3 cup butter, melted
 
-## Instructions
+### Instructions
 
 1. In a medium-large bowl, whisk eggs until smooth.
 2. Add milk, buttermilk, sugar, and vanilla and whisk.

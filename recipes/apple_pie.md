@@ -1,8 +1,8 @@
 Dessert
 
-# Apple Pie
+## Apple Pie
 
-## Ingredients
+### Ingredients
 
 - Pastry for two-crust pie (see recipe)
 - 1/3-2/3 cup sugar
@@ -13,7 +13,7 @@ Dessert
 - 8 cups thinly sliced peeled tart apples(8 medium)
 - 2 Tbs. butter
 
-## Instructions
+### Instructions
 
 1. Heat oven to 425. Make pastry.
 2. Mix sugar, flour, cinnamon, nutmeg, and salt in a large bowl. Stir in apples. Turn into pastry-lined pie plate. Cut into small pieces; sprinkle over apples. Cover with top pastry that has slits cut in it; seal and flute. Cover edge with 2-3 in. Strip of aluminum foil to prevent excessive browning. Remove foil during the last 15 min. Of baking.

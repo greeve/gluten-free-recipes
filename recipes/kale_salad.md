@@ -1,8 +1,8 @@
 Sides
 
-# Kale Salad
+## Kale Salad
 
-## Instructions
+### Instructions
 
 1. Can find bag at Costco. 
 2. Follow Instructions. 

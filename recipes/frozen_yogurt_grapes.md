@@ -1,15 +1,15 @@
 Snacks
 
-# Frozen Yogurt Grapes
+## Frozen Yogurt Grapes
 
-## Ingredients
+### Ingredients
 
 - 25 large red grapes
 - 25 toothpicks
 - 5 oz. Greek yogurt
 - ½ cup ground nuts and/or toasted coconut (chia seed or flax seed also work)
 
-## Instructions
+### Instructions
 
 1. Wash and dry the grapes.
 2. Push one toothpick into each grape.

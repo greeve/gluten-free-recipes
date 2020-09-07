@@ -1,8 +1,8 @@
 Dessert
 
-# Chocolate Chip Cookies (healthy)
+## Chocolate Chip Cookies (healthy)
 
-## Ingredients
+### Ingredients
 
 - 2 1/3 cups blended oat flour (blend first and then measure. You could also substitute almond flour for some of it)
 - 1/2 tsp. Salt
@@ -14,7 +14,7 @@ Dessert
 - 1/4 cup melted coconut oil
 - 1/4-1/2 cup almond milk or rice milk (depending on how dry your dough is)
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 380 degrees. 
 2. Combine dry ingredients well. 

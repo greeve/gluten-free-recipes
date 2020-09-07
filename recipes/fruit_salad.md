@@ -1,8 +1,8 @@
 Sides
 
-# Fruit Salad
+## Fruit Salad
 
-## Ingredients
+### Ingredients
 
 - 2 cups strawberries
 - 1 cup mandarin oranges , about 4 oranges or a 11 ounce can
@@ -13,7 +13,7 @@ Sides
 - 1 lime , juiced
 - Could also add raspberries, pineapple, kiwi, blackberries
 
-## Instructions
+### Instructions
 
 1. Toss the fruit in a large bowl. 
 2. Then whisk together the honey and lime in a small bowl. 

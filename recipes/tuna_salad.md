@@ -1,8 +1,8 @@
 Lunch
 
-# Tuna Salad
+## Tuna Salad
 
-## Ingredients
+### Ingredients
 
 - 1 can (5 oz) Solid White Albacore, in water (I like Bumble Bee brand)
 - ¼ cup mayonnaise
@@ -17,7 +17,7 @@ Lunch
 - Dash of onion powder
 - Dash of lemon pepper
 
-## Instructions
+### Instructions
 
 1. Mix all ingredients.
 2. Serve with GF Bread or crackers.

@@ -1,10 +1,10 @@
 Dinner/Soups-Crockpot
 
-# Chicken Enchilada Casserole
+## Chicken Enchilada Casserole
 
 Serves about 7
 
-## Ingredients
+### Ingredients
 
 - 2 boneless skinless raw chicken breasts or 9 thighs
 - 1 28 ounce can Red Enchilada Sauce (I use El Pato Brand)- gluten free
@@ -13,7 +13,7 @@ Serves about 7
 - 3 cups grated cheddar cheese (divided)
 - 2 little 3.8 ounce can black olives (divided)
 
-## Instructions
+### Instructions
 
 1. Put the chicken breasts and the enchilada sauce in your slow cooker.
 2. Cook on low for 8 hours. (mine: 5 hours)

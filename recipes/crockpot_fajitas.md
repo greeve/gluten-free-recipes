@@ -1,8 +1,8 @@
-Dinner
+Dinner/Mexican
 
-# Crockpot Fajitas
+## Crockpot Fajitas
 
-## Ingredients
+### Ingredients
 
 - 1 tbs olive oil
 - 2 tsp real butter
@@ -17,7 +17,7 @@ Dinner
 - pepper
 - 1/3 cup salsa
 
-## Instructions
+### Instructions
 
 1. Drizzle 1 tablespoon of olive oil in the bottom of your crock pot and 2 teaspoons of real butter.
 2. Layer the chopped peppers first, I used orange and red but whichever colors you prefer. Then add sliced onions on top.

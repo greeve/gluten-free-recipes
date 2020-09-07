@@ -1,24 +1,24 @@
 Dessert
 
-# Pie Crust
+## Pie Crust
 
-## Ingredients
+### Ingredients
 
-### One-Crust Pie (9 in.)
+#### One-Crust Pie (9 in.)
 
 - 1 cup GF flour(with xanthum gum)
 - 1/2 tsp. Salt
 - 1/3 cup plus 1 Tbs shortening
 - 2-3 Tbs cold water
 
-### Two-Crust Pie (9 in.)
+#### Two-Crust Pie (9 in.)
 
 - 2 cups GF flour (with xanthum gum)
 - 1 tsp. Salt
 - 2/3 Cup plus 2 Tbs shortening
 - 4-5 Tbs cold water
 
-## Instructions
+### Instructions
 
 1. Mix flour and salt in a medium bowl. Cut in shortening, using pastry blender or crisscrossing 2 knives, until particles are size of small peas. Sprinkle with cold water, 1 Tbs at a time, tossing with fork until all the flour is moistened and pastry almost leaves the side of the bowl (1-2 tsp. Of water can be added if needed).
 2. Gather pastry into a ball. Shape into flattened round on lightly floured surface. (For Two-crust pie, divide pastry in half and shape into 2 rounds.)You can wrap up dough in plastic wrap and refrigerate about 30 min to firm up the shortening slightly, which helps make the baked pastry more flaky. 

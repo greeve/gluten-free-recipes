@@ -1,10 +1,10 @@
 Dinner/Asian
 
-# Mason Dumplings
+## Mason Dumplings
 
-## Ingredients
+### Ingredients
 
- ### Filling
+#### Filling
 
 - 1/2 lb pork or turkey, minced
 - 2 green onions (scallions), minced
@@ -14,7 +14,7 @@ Dinner/Asian
 - 1/4 tsp sesame oil
 - 1-2 cups cabbage mix
 
-### Wrappers
+#### Wrappers
 
 - 1/2 cup (63 g) Artisan Gluten-Free Flour Blend
 - 1/2 cup (60 g) tapioca flour
@@ -25,7 +25,7 @@ Dinner/Asian
 - 2 tbsp cold water
 - 1 1/2 tbsp olive oil
 
-### Ponzu dipping sauce
+#### Ponzu dipping sauce
 
 - 1/4 cup tamari wheat-free soy sauce
 - 2 tbsp orange juice
@@ -35,7 +35,7 @@ Dinner/Asian
 - 1/4 tsp chili garlic sauce
 - Green onions (scallions)
 
-## Instructions
+### Instructions
 
 1. Combine the filling ingredients in a small bowl and place in the refrigerator until ready to fill the wrappers.
 2. Mix the three flours, salt, and xanthan gum, then add the boiling water and mix to combine. The mixture will be dry and crumbly.

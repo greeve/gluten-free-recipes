@@ -1,8 +1,8 @@
-Dinner/American-Indian
+Dinner/American
 
-# Fried Chicken 
+## Fried Chicken 
 
-## Ingredients
+### Ingredients
 
 - 1/3 cup olive oil
 - 2 lb chicken tenders
@@ -13,7 +13,7 @@ Dinner/American-Indian
 - 1 tsp pepper
 - Any other seasonings you would like 
 
-## Instructions
+### Instructions
 
 1. In a frying pan, heat up olive oil on medium heat.
 1. Mix milk and eggs together with a fork in a bowl.

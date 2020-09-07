@@ -1,8 +1,8 @@
 Snacks
 
-# Trail Mix (Go-To recipe)
+## Trail Mix (Go-To recipe)
 
-## Ingredients
+### Ingredients
 
 - 3/4 cup raw pecans (I toast mine in the oven for 10 mins at 350 degrees F)
 - 3/4 cup raw cashews (I toast mine in the oven for 10 mins at 350 degrees F)
@@ -15,7 +15,7 @@ Snacks
 - 1/2 tsp cinnamon
 - pinch of nutmeg
 
-## Instructions
+### Instructions
 
 1. Combine all ingredients in a large bowl and mix well.
 2. Store in a ziploc bag or mason jar.

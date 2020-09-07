@@ -1,14 +1,14 @@
 Snacks
 
-# Roasted Pecans
+## Roasted Pecans
 
-## Ingredients
+### Ingredients
 
 - 1 pound pecan halves
 - 4 tablespoons salted butter
 - 1 teaspoon salt
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 300 degrees Fahrenheit.
 2. Place pecan halves on a half sheet pan or cookie sheet, being sure to spread evenly on the pan.

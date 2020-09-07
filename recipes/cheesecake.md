@@ -1,17 +1,17 @@
 Dessert
 
-# Cheese Cake
+## Cheese Cake
 
-## Ingredients
+### Ingredients
 
-### Gluten Free Cheesecake Crust
+#### Gluten Free Cheesecake Crust
 
 - 2 cups almond flour
 - 5 Tablespoons butter (or dairy-free alternative)
 - 1/4 teaspoon sea salt
 - 1/3 cup powdered sugar
 
-### Cheesecake Filling
+#### Cheesecake Filling
 
 - 16 ounces cream cheese (or dairy-free alternative)
 - 1/2 cup sugar
@@ -19,7 +19,7 @@ Dessert
 - 2 eggs
 - 1 teaspoon vanilla extract
 
-## Instructions
+### Instructions
 
 1. Prepare a 8 inch spring form pan with greased parchment paper. 
 2. Preheat oven to 325 degrees F. 

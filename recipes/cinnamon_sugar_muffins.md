@@ -1,8 +1,8 @@
 Breakfast
 
-# Cinnamon Sugar Muffins
+## Cinnamon Sugar Muffins
 
-## Ingredients
+### Ingredients
 
 - 1 1/2 cups Gluten Free Flour Blend (with xanthum gum)
 - 3/4 cup sugar
@@ -14,7 +14,7 @@ Breakfast
 - 1/3 cup milk, any kind
 - 1/2 tsp. vanilla
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 400°F. Grease or spray muffin tin or insert paper liners.
 2. Combine flour, sugar, salt, baking powder and cinnamon in medium bowl. Mix well.

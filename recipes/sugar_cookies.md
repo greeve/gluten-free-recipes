@@ -1,10 +1,10 @@
 Dessert
 
-# Sugar Cookies
+## Sugar Cookies
 
-## Ingredients
+### Ingredients
 
-### Cookies
+#### Cookies
 
 - 2 cups (280 g) all-purpose gluten-free flour (I like “Grandpa’s Kitchen”)
 - 1 teaspoon xanthan gum (omit if your blend already contains it)
@@ -17,7 +17,7 @@ Dessert
 - 1 teaspoon pure vanilla extract
 - A few teaspoons of water if dough is too thick
 
-### Frosting
+#### Frosting
 
 - 10 tablespoons (140 g) unsalted butter, at room temperature
 - 4 tablespoons milk, at room temperature
@@ -27,7 +27,7 @@ Dessert
 - 4 cups (460 g) confectioners’ sugar
 - Sprinkles (optional)
 
-## Instructions
+### Instructions
 
 1. Preheat your oven to 350°F. Line rimmed baking sheets with unbleached parchment paper and set them aside.
 2. In a large bowl, place the flour, xanthan gum, baking powder, salt, granulated sugar and confectioners’ sugar and whisk to combine well. Add the butter, egg, and vanilla, and mix to combine. The dough will be thick and relatively stiff, and you may need to add a little water and squeeze it together with your hands to bring all of it together.

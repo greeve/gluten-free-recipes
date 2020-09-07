@@ -1,8 +1,8 @@
 Sides
 
-# Green Salad
+## Green Salad
 
-## Ingredients
+### Ingredients
 
 - Green lettuce (washed and strained)
 - Spinach
@@ -11,6 +11,6 @@ Sides
 - Cucumbers (peeled and sliced)
 - radishes, brocoli, celery, cherry tomatoes or whatever you want 
 
-## Instructions
+### Instructions
 
 1. Mix together and serve with your favorite dressing

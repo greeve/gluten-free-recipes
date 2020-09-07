@@ -1,8 +1,8 @@
 Dinner/Mexican
 
-# Red/Green Enchiladas
+## Red/Green Enchiladas
 
-## Ingredients
+### Ingredients
 
 - 16 corn tortillas
 - 1/4 cup olive oil
@@ -12,7 +12,7 @@ Dinner/Mexican
 - salt and pepper to the taste
 - 1 small can green chiles (if making green enchiladas)
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 350 degrees F.
 2. Salt and pepper cooked chicken. 

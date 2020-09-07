@@ -1,8 +1,8 @@
 Dinner/Asian
 
-# Kung Pao Chicken
+## Kung Pao Chicken
 
-## Ingredients
+### Ingredients
 
 - ⅔ cup cornstarch or arrowroot powder
 - ¼ tsp black pepper
@@ -20,12 +20,12 @@ Sauce (Feel free to double the sauce if you like more sauce)
 - 1 tsp grated fresh ginger
 - ¼ - ½ teaspoon dried red pepper chili flakes
 
-### Cornstarch slurry
+#### Cornstarch slurry
 
 - 2 Tablespoons cornstarch or arrowroot powder
 - 2-3 Tablespoons water (plus more as needed to thin out consistency of sauce)
 
-## Instructions 
+### Instructions 
 
 1. In a large zip-top bag, toss in chicken, cornstarch and black pepper. Shake until well-coated.
 2. Heat a large skillet over medium-high heat. Cook chicken about 2-3 minutes on each side, until lightly browned. Transfer chicken into slow cooker.

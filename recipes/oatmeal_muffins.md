@@ -1,8 +1,8 @@
 Breakfast
 
-# Oatmeal muffins
+## Oatmeal muffins
 
-## Ingredients
+### Ingredients
 
 - 2 ½ cups old-fashioned oats ( 1.5 cups ground, 1 cup whole)
 - 2 Tbsp old-fashioned oats for muffin tops
@@ -18,7 +18,7 @@ Breakfast
 - 1 tsp cinnamon
 - muffin tin
 
-## Instructions
+### Instructions
 
 1. Mash bananas well, they should have no lumps. I use my mixer to mash them before adding the other wet ingredients.
 2. Add eggs, honey, milk and vanilla. Mix to combine.

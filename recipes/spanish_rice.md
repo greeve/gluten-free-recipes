@@ -1,8 +1,8 @@
 Sides
 
-# Spanish Rice
+## Spanish Rice
 
-## Ingredients
+### Ingredients
 
 - Oil(about 2 Tbs)
 - 1/2 onion chopped
@@ -12,7 +12,7 @@ Sides
 - 4 cups of chicken broth
 - 1/2 cup tomato sauce (4 oz.)
 
-## Instructions
+### Instructions
 
 1. Put oil enough to cover a large sauce pan. 
 2. Add rice, onion, garlic and salt. 

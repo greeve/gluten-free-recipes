@@ -1,8 +1,8 @@
 Dessert
 
-# Vanilla Cake
+## Vanilla Cake
 
-## Ingredients
+### Ingredients
 
 - 2 cups (280 g) all purpose gluten free flour (I used Better Batter)
 - 1/2 teaspoon kosher salt
@@ -16,7 +16,7 @@ Dessert
 - 4 egg whites (100 g) + 1 whole egg (50 g, weighed out of shell), at room temperature**
 - 1 1/3 cups (10 2/3 fluid ounces) Greek yogurt, at room temperature.
 
-## Instructions
+### Instructions
 
 1. Preheat your oven to 350°F. Grease 2 8-inch round cake pans and line the bottom of each with a round of parchment paper (trace the perimeter of the cake pan on the parchment, then cut out the circle). Set the pans aside.
 

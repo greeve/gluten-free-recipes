@@ -1,8 +1,8 @@
 Sides
 
-# Grilled Stuffed Mushrooms
+## Grilled Stuffed Mushrooms
 
-## Ingredients
+### Ingredients
 
 - 2 large Costco size containers of fresh mushrooms I used white
 - 1 block of lite cream cheese
@@ -10,7 +10,7 @@ Sides
 - Grated Parmesan optional
 - Salt & Pepper to taste
 
-## Instructions
+### Instructions
 
 1. Prepare mushrooms by washing & breaking out the stems (Note....use the stems in pasta sauce or salad if you want).
 2. Squeeze sausage out of casings & cook over medium high heat until browned and cooked through. I didn't drain mine because turkey sausage has little to drain. If using pork sausage, I would drain it. Add lite cream cheese and stir until melted.

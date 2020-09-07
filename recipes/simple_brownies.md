@@ -1,8 +1,8 @@
 Dessert
 
-# Simple Brownies
+## Simple Brownies
 
-## Ingredients
+### Ingredients
 
 - 1/2 cup GF Flour Blend
 - 1/2 cup butter
@@ -14,7 +14,7 @@ Dessert
 - 1/4 tsp. baking powder 
 - Optional: chocolate chips for on top
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 350 degrees F. Grease an 8 X 8 inch pan. 
 2. In a medium saucepan, melt 1/2 cup butter. Remove from heat. 

@@ -1,8 +1,8 @@
 Lunch
 
-# Veggie Tortilla Wrap
+## Veggie Tortilla Wrap
 
-## Ingredients
+### Ingredients
 
 - 2 carrots, cut into battons
 - 150 g (5.2 oz) red cabbage, sliced
@@ -13,11 +13,11 @@ Lunch
 - 8 corn tortillas (gluten free)
 - 200g hummus
 
-## Instructions
+### Instructions
 
 1. Spread out the tortilla wraps and add on as much of each vegetable as you would like.
 2. Top with a generous dollop of the hummus and wrap the tortillas and serve. 
 
-## Notes
+### Notes
 
 Please supervise kids carefully when using the grater or knife. The vegetables can also be grated and sliced in a food processor using the grater or slicer attachment. Kids love switching the food processor on and off when doing this.

@@ -1,8 +1,8 @@
 Dinner/Mexican
 
-# Tostadas
+## Tostadas
 
-## Ingredients
+### Ingredients
 
 - 10 tostada shells (or regular corn tortillas, if making your own tostada shell)
 - 1 can Refried Beans
@@ -14,7 +14,7 @@ Dinner/Mexican
 - Mexican crema (or sour cream)
 - Salsa, pico de gallo or salsa verde
 
-## Instructions
+### Instructions
 
 1. Bake or Fry the corn tortillas, if not using store bought tostada shells.
 2. Add ground turkey to a skillet with oil and cook over medium heat. Cook, breaking into small pieces with a wooden spoon, until browned. Remove grease.

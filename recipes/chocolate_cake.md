@@ -1,8 +1,8 @@
 Dessert
 
-# Chocolate Cake 
+## Chocolate Cake 
 
-## Ingredients 
+### Ingredients 
 
 - 1 cup (80g) unsweetened cocoa powder
 - 1 cup hot water (240 ml)
@@ -16,7 +16,7 @@ Dessert
 - ½ cup vegetable oil (120 ml)
 - 2 tsp vanilla extract
 
-## Instructions
+### Instructions
 
 1. Preheat the oven to 350°. Line the bottom of two 8-inch cake pans with parchment paper, then grease the sides. 
 2. In a medium bowl, whisk the hot water (or coffee) and cocoa together until smooth. Set aside.

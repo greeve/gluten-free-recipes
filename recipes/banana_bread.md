@@ -1,8 +1,8 @@
 Breakfast
 
-# Banana Bread (sugar free)
+## Banana Bread (sugar free)
 
-## Ingredients
+### Ingredients
 
 - 2 cups gluten free flour recipe (see pg. 
 - 2 tsp. xanthum gum
@@ -18,7 +18,7 @@ Breakfast
 - ½-1 cup chocolate chips (optional)
 - Brown sugar and cinnamon (if you want to sprinkle on top before you cook)
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan, set aside.
 2. In a large bowl, combine flour, baking soda, baking powder, and salt, set aside. In a separate bowl, cream together butter and maple syrup. Stir in eggs, milk, vanilla, and mashed bananas until well blended. Stir banana mixture and chocolate chips into flour mixture; stir just to moisten. Pour batter into prepared loaf pan.

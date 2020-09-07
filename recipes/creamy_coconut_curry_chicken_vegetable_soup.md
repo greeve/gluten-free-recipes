@@ -1,8 +1,8 @@
 Dinner/Soups-Crockpot
 
-# Creamy Coconut Curry Chicken & Vegetable Soup
+## Creamy Coconut Curry Chicken & Vegetable Soup
 
-## Ingredients
+### Ingredients
 
 - 1/2 tbsp. butter preferably grass fed
 - 1/2 tbsp. olive oil
@@ -20,7 +20,7 @@ Dinner/Soups-Crockpot
 - 2 cups water
 - 2 chicken breasts or thighs
 
-## Instructions
+### Instructions
 
 1. In a soup pot, heat butter and olive oil over medium low heat.
 2. Add the chopped onion, celery, carrot and potato. Season with sea salt and pepper, stir well and saute for 5-7 minutes, stirring occasionally. Add the garlic and cook, stirring continuously for another minute. Add the curry powder, turmeric, and cumin and stir well for another 30 seconds.

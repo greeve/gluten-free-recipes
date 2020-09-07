@@ -1,8 +1,8 @@
-Dinner
+Dinner/Indian
 
-# Coconut chicken curry with potatoes and veggies
+## Coconut chicken curry with potatoes and veggies
 
-## Ingredients
+### Ingredients
 
 - 4 boneless chicken thighs, cut into 1 1/2-inch pieces
 - 1 cup of onions, sliced
@@ -14,7 +14,7 @@ Dinner
 - Salt, as desired
 - Optional: other vegetables: celery, carrots, peppers, etc..
 
-## Instructions
+### Instructions
 
 1. Cut your potatoes into small cubes.
 2. Slice the onions.

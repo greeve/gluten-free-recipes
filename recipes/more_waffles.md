@@ -1,6 +1,6 @@
 Breakfast
 
-## Waffles-best gluten free yet
+## More waffles
 
 ### Ingredients
 
@@ -23,10 +23,3 @@ Breakfast
 5. When your ready, stir the batter once more and then scoop out 1/4 cup of batter and then pour onto the centre of your heated waffle iron. Close the lid and let cook until goldened and crispy.
 6. Transfer the cooked waffles to a wire cooling rack to cool and rest as you finish cooking the rest of your waffles. Make sure you don't stack them on top of each other or they will lose their crispiness. 
 7. Repeat with remaining batter and serve warm with your preferred toppings. 
-
-### Notes
-
-- Make it dairy/nut free: You can use any milk of your choice here (dairy free or not)
-- Make it egg free: You can actually leave out the eggs altogether here. I found that these came out crispier without eggs but you do need to be a little more gentle with removing the cooked waffles from the iron and make sure you grease the iron well. 
-- Freeze it: Allow the waffles to cool completely then wrap up/seal in a freezer safe bag. You can just pop these in a toaster to heat through when you're ready.
-- Instead of chickpea flour you can also use regular gluten free all purpose flour or certified gluten free oat flour. 

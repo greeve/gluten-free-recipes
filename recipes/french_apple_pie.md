@@ -1,8 +1,8 @@
 Dessert
 
-# French Apple Pie
+## French Apple Pie
 
-## Ingredients
+### Ingredients
 
 - Pastry for two-crust pie (see recipe)
 - 1/3-2/3 cup sugar
@@ -13,7 +13,7 @@ Dessert
 - 8 cups thinly sliced peeled tart apples(8 medium)
 - 2 Tbs. butter
 
-## Instructions
+### Instructions
 
 1. Make pastry for one pie crust. 
 2. Turn apple mixture into pastry lined pie plate. 

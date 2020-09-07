@@ -1,10 +1,10 @@
 Breads
 
-# Sandwich Bread (Bread Machine recipe)
+## Sandwich Bread (Bread Machine recipe)
 
-## Ingredients
+### Ingredients
 
-### Dry Ingredients
+#### Dry Ingredients
 
 - 3½ cups of gluten free self raising flour (I use the Orgran brand)
 - 2 tablespoons of sugar
@@ -12,14 +12,14 @@ Breads
 - 1 teaspoon of salt
 - 1 sachet (7 grams) of dried yeast
 
-### Wet Ingredients
+#### Wet Ingredients
 
 - 1½ cups of almond milk (or milk of your choice)
 - ¼ cup of olive oil
 - 3 eggs - medium
 - 1 teaspoon of white vinegar
 
-## Instructions
+### Instructions
 
 1. Mix all the dry ingredients together in a bowl.
 2. In another bowl, mix all the wet ingredients until blended.

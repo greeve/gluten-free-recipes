@@ -1,8 +1,8 @@
 Breakfast
 
-# Chocolate Chip Muffins
+## Chocolate Chip Muffins
 
-## Ingredients
+### Ingredients
 
 - 2 cups gluten free flour
 - 1 cup maple syrup (or brown sugar)
@@ -14,10 +14,15 @@ Breakfast
 - 1/2 cup melted butter (real butter) or coconut oil
 - 2 teaspoons pure vanilla extract (gluten free)
 - 1 cup chocolate chips
-Also can try: 1 cup blueberries (fresh or frozen), 1 1/2 tsp cinnamon, 1 cup applesauce, 1 cup strawberries
 
+#### Substitutes for chocolate chips
 
-## Instructions
+- 1 cup blueberries (fresh or frozen)
+- 1 1/2 tsp cinnamon
+- 1 cup applesauce
+- 1 cup strawberries
+
+### Instructions
 
 1. Preheat the oven to 400 degrees.
 2. Spray the cups of a 12 cup muffin tin with gluten free cooking spray or line with paper liners. (I like to use oil instead of cooking spray)

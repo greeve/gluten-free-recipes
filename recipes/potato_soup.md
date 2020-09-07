@@ -1,8 +1,8 @@
 Dinner/Soups-Crockpot
 
-# Potato Soup
+## Potato Soup
 
-## Ingredients
+### Ingredients
 
 - 5-6 medium potatoes (enough for 4 cups when cut into ½ inch cubes), peeled if preferred
 - ½ cup onion (about ½ of a medium onion), diced
@@ -15,7 +15,7 @@ Dinner/Soups-Crockpot
 - 1 cup water
 - Shredded cheese to top
 
-## Instructions
+### Instructions
 
 1. Bring water and salt to a low boil
 2. Add onions (both regular and green)

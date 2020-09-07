@@ -1,8 +1,8 @@
 Dessert
 
-# Snickerdoodles
+## Snickerdoodles
 
-## Ingredients
+### Ingredients
 
 - 1/2 cup butter (1 stick), softened (or powdered butter)
 - 1/2 cup granulated sugar 
@@ -15,7 +15,7 @@ Dessert
 - 1/4 teaspoon cream of tartar 
 - For rolling: 2 tablespoons granulated sugar 1 teaspoon cinnamon
 
-## Instructions
+### Instructions
 
 1. In a large bowl, cream together the butter andl  sugars with an electric mixer on high speed. Add the egg and vanilla aand beat until smooth. 
 2. In another bowl, combine the flour, salt, baking soda, and cream of tartar. 

@@ -1,14 +1,14 @@
 Sides
 
-# Quinoa
+## Quinoa
 
-## Ingredients
+### Ingredients
 
 - 1 cup quinoa, rinsed if necessary
 - 2 cups liquid (water, chicken stock (I use chicken stock)
 - 1/4 teaspoon salt
 
-## Instructions
+### Instructions
 
 1. Check the quinoa package to see if your quinoa needs rinsed. If it does, pour 1 cup of quinoa into a fine mesh strainer and rinse thoroughly with cold water.
 2. Place quinoa, your liquid of choice, and salt into the rice cooker.

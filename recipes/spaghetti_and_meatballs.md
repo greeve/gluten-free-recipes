@@ -1,15 +1,15 @@
 Dinner/Italian
 
-# Spaghetti and Meatballs
+## Spaghetti and Meatballs
 
-## Ingredients
+### Ingredients
 
 - GF Noodles (brown rice are delicious)
 - 2 cans Prego Traditional Sauce (this is GF)
 - 1 bag of frozen GF Meatballs 
 - Italian seasoning
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 350.
 2. Boil noodles according to instructions (usually about 10 min). Rinse with cool water and add a little olive oil to avoid sticking.

@@ -1,8 +1,8 @@
 Dinner/Mexican
 
-# Taco Salad
+## Taco Salad
 
-## Ingredients
+### Ingredients
 
 - 1 pound lean ground beef (or ground turkey or chicken)
 - salt & pepper
@@ -17,7 +17,7 @@ Dinner/Mexican
 - Plain Greek yogurt or sour cream for serving, if desired
 - Tortilla chips (if desired)
 
-## Instructions
+### Instructions
 
 1. Heat a large skillet over medium heat. Add ground beef and sprinkle with salt and pepper. Cook, breaking up the meat, until meat is browned, about 5 minutes. Add the taco seasoning and water, reduce the heat to a low simmer, and cook, stirring occasionally, until liquid is mostly gone and meat is cooked through, about 5 minutes.
 2. To assemble the salads, divide the lettuce, black beans, corn, tomatoes, cheese and avocado evenly between four large plates. Top with the beef and salsa. Serve with plain Greek yogurt or sour cream and tortilla chips as desired.

@@ -1,8 +1,8 @@
-Dinner
+Dinner/American
 
-# Cajun Shrimp, Sausage and Veggies
+## Cajun Shrimp, Sausage and Veggies
 
-## Ingredients
+### Ingredients
 
 - 1 pound large shrimp, peeled and deveined
 - 14-ounce pork or chicken sausage, sliced
@@ -15,7 +15,7 @@ Dinner
 - 2 Tablespoons olive oil
 - 2 Tablespoons Cajun Seasoning 
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 400 degrees. 
 2. In a large bowl add the shrimp, sausage, zucchini, yellow squash, asparagus, bell pepper and salt and pepper. Add olive oil and cajun seasoning and toss until coated.

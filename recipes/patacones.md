@@ -1,14 +1,14 @@
 Sides
 
-# Patacones or tostones
+## Patacones or tostones
 
-## Ingredients
+### Ingredients
 
 - 2 green plantains use about 1 plantain per person for an appetizer and 1 plantain per 2 people for a side dish – you can get about 8-10 patacones per plantain
 - Oil for frying use an oil that won’t burn at high temperatures (peanut oil or avocado    oil)
 - Salt to taste
 
-## Instructions
+### Instructions
 
 1. Peel the plantains, the easiest way to peel a green plantain is to make the lengthwise cut on one of the angles, the cut should be skin deep without touching the actual flesh of the plantain, then use the knife to raise the skin and peel it off.
 2. Cut the plantains into thick slices, you can make straight cuts or slightly diagonal cuts.

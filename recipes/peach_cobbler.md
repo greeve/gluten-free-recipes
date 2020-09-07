@@ -1,8 +1,8 @@
 Dessert
 
-# Peach Cobbler
+## Peach Cobbler
 
-## Ingredients
+### Ingredients
 
 - 3 cups peaches (pealed and sliced)
 - 1 tsp. Lemon juice
@@ -12,7 +12,7 @@ Dessert
 - 1 egg, beaten
 - 6 Tbsp. Butter, melted
 
-## Instructions
+### Instructions
 
 1. Place peaches in an 8x8 baking dish and sprinkle with lemon juice. 
 2. Mix dry ingredients, add beaten egg. 

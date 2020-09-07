@@ -1,8 +1,8 @@
 Lunch
 
-# Egg Salad
+## Egg Salad
 
-## Ingredients
+### Ingredients
 
 - 9 large eggs
 - 1/4 cup mayonnaise
@@ -18,7 +18,7 @@ Lunch
     - green onions
     - etc…
 
-## Instructions
+### Instructions
 
 1. Start by boiling your eggs. 
 2. Peel boiled eggs and add them to a mixing bowl. 

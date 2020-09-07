@@ -1,8 +1,8 @@
 Dinner/Asian
 
-# Chicken Teriyaki Noodle Bowls
+## Chicken Teriyaki Noodle Bowls
 
-## Ingredients
+### Ingredients
 
 - 15 ounces rice long Noodles
 - 1/3 cup soy sauce, low sodium
@@ -18,7 +18,7 @@ Dinner/Asian
 - 1 cup snow peas
 - 1 cup cabbage
 
-## Instructions 
+### Instructions 
 
 1. Boil a pot of about 5 cups of water and add your refrigerated soba or udon noodles to the water. It will take only 2 minutes for the noodles to separate, then drain and set aside.
 2. In a small sauce pan over medium heat, combine soy sauce, honey, garlic and ginger.

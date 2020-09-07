@@ -1,8 +1,8 @@
 Lunch
 
-# Chef Salad
+## Chef Salad
 
-## Ingredients
+### Ingredients
 
 - One Head of Romaine Lettuce (Chopped)
 - 1 Hard Boiled Egg
@@ -12,7 +12,7 @@ Lunch
 - 1/4 Cup of Bacon (Chopped)
 - 2 Tbsp Ranch Dressing
 
-## Instructions
+### Instructions
 
 1. In a large bowl, place the torn lettuce
 2. Drizzle bowl with Ranch Dressing, and toss until coated

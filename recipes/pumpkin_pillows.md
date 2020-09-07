@@ -1,8 +1,8 @@
 Dessert
 
-# Pumpkin Pillows
+## Pumpkin Pillows
 
-## Ingredients
+### Ingredients
 
 - 1 3/4 cups maple syrup (or 1 cup brown sugar)
 - 1/4 cup olive oil
@@ -17,7 +17,7 @@ Dessert
 - 2 T pumpkin pie spice or 1 tsp Cinnamon, 1 tsp nutmeg 1 tsp ginger and a dash of cloves
 - Chocolate chips (optional)
 
-## Instructions
+### Instructions
 
 1. Preheat oven to 350° and line a baking sheet with parchment paper.
 2. In a medium bowl combine maple syrup, oil, apple sauce, pumpkin, eggs and vanilla until fully incorporated.

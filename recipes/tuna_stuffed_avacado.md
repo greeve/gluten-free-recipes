@@ -1,8 +1,8 @@
 Lunch
 
-# Tuna Stuffed Avocado
+## Tuna Stuffed Avocado
 
-## Ingredients
+### Ingredients
 
 - 1 avocado, halved and pitted
 - 1 (4.5 oz) cans tuna, drained
@@ -12,7 +12,7 @@ Lunch
 - 1 tablespoon lime juice
 - salt and pepper (to taste)
 
-## Instructions
+### Instructions
 
 1. Scoop out some of the avocado from the pitted area to widen the "bowl" area. Place the scooped avocado into a medium-size mixing bowl. Mash it with a fork.
 2. Add the tuna, bell pepper, jalapeno, and cilantro to the mixing bowl. Pour lime juice over. Stir it all together until everything is well mixed.

@@ -1,8 +1,8 @@
 Dessert
 
-# Carmel Fondue
+## Carmel Fondue
 
-## Ingredients
+### Ingredients
 
 - 1 14 oz. can sweetened condensed milk
 - 1 cup packed brown sugar
@@ -12,7 +12,7 @@ Dessert
 - 2-3 Tbs. milk
 - crisp apples
 
-## Instructions
+### Instructions
 
 1. In a heavy sauce pan combine sweetened condensed milk, brown sugar, butter, corn syrup and vanilla. 
 2. Cook and stir over low heat until melted and heated through. 

@@ -1,8 +1,8 @@
 Snacks
 
-# Homemade Salsa
+## Homemade Salsa
 
-## Ingredients
+### Ingredients
 
 - 1/2 yellow onion
 - 1/2 jalapeño pepper (seeded)
@@ -13,7 +13,7 @@ Snacks
 - 1 bunch cilantro
 - 2 cans tomatoes (drained)
 
-## Instructions
+### Instructions
 
 1. In a blender mix the onion, jalapeño pepper, sugar, salt, lemon juice, and green chiles.
 2. Add cilantro and tomatoes.
