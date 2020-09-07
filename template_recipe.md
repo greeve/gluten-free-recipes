@@ -1,7 +1,7 @@
 Topic/Sub-topic
 
-# Title
+## Title
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
