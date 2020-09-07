@@ -1,0 +1,18 @@
+{
+	"Breakfast": {
+		"recipes": [
+			"Eggs",
+			"Oatmeal",
+			"Waffles",
+		]
+	},
+	"Dinner": {
+		"Asian": [
+			"Orange Chicken",
+			"Dumplings",
+		],
+		"recipes": [
+			"Doesn't exist"
+		]
+	}
+}
