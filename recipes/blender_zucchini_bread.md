@@ -16,7 +16,7 @@ Breakfast
 - 2 tsp Baking Soda
 - 1 1/2 tsp cinnamon
 
-### FOR CHOCOLATE ZUCCHINI BREAD, ADD:
+### Chocolate Zucchini Bread
 
 - 2-4 T cocoa powder
 - 1 1/2 cups mini chocolate chips

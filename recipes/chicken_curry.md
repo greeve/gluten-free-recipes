@@ -1,6 +1,6 @@
 Dinner
 
-# Coconut chicken curry with potatoes/veggies
+# Coconut chicken curry with potatoes and veggies
 
 ## Ingredients
 
