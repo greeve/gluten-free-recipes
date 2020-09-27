@@ -1,3 +1,16 @@
+---
+title: For My Gluten Free Missionary
+author: Adriana Reeve
+keywords: [gluten free, recipe, cookbook]
+abstract: |
+    A Gluten Free cookbook I made for my two Gluten Free boys in preparation for their mission.
+
+    This is the abstract.
+rights: ©2020
+language: en-US
+documentclass: report
+---
+
 \newpage
 
 # Flour
@@ -19,6 +32,67 @@
 \newpage
 
 # Breads
+
+## Blender Zucchini Bread
+
+### Ingredients
+
+- 1 cup neutral oil such as avocado or canola
+- 3 large eggs
+- 1 T vanilla extract
+- About 3 cups largely chopped zucchini
+- 2 cups sugar
+- 3 cups flour mix
+- 2 tsp Xanthan Gum (omit if flour mix already contains xanthan)
+- 1 tsp salt
+- 1 tsp Baking Powder
+- 2 tsp Baking Soda
+- 1 1/2 tsp cinnamon
+
+#### Chocolate Zucchini Bread
+
+- 2-4 T cocoa powder
+- 1 1/2 cups mini chocolate chips
+- additional 1/2 tsp baking soda
+
+### Instructions
+
+1. Blend oil, eggs, vanilla and 2 1/2 cups zucchini together in a blender until you have 4 cups mixture. Add more zucchini if needed to reach the 4 cups.
+2. Add remaining ingredients and blend until smooth.
+3. Spray loaf pans (8 mini or 2 regular, or any combination) fairly heavily with cooking spray, or grease generously with oil.
+4. Pour batter into pans.
+5. Preheat oven to 350 (letting batter sit while you preheat oven eliminates any gritty texture).
+6. Bake large loaves for 35-40 minutes, mini loaves 17-22 minutes, until toothpick inserted in center comes out clean. Be careful not to over bake, as they could become dry.
+7. Let cool in pans for 10 minutes before removing to cooling rack.
+8. Store in plastic bags in fridge up to 7 days, counter up to 4. or wrap in foil and place in freezer bag and freeze. Thaw at room temperature, in the fridge, or in 325 degree oven until warm.
+
+\newpage
+
+## Banana Bread (sugar free)
+
+### Ingredients
+
+- 2 cups gluten free flour recipe (see pg. 
+- 2 tsp. xanthum gum
+- 4-5 very ripe bananas, mashed (1½ cups)
+- ½ cup maple syrup
+- 1/4 cup butter, softened
+- 2 eggs
+- 2 tablespoons milk
+- ½ teaspoon vanilla
+- 2 teaspoon baking powder
+- 1 teaspoon baking soda
+- ¼ teaspoon salt
+- ½-1 cup chocolate chips (optional)
+- Brown sugar and cinnamon (if you want to sprinkle on top before you cook)
+
+### Instructions
+
+1. Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan, set aside.
+2. In a large bowl, combine flour, baking soda, baking powder, and salt, set aside. In a separate bowl, cream together butter and maple syrup. Stir in eggs, milk, vanilla, and mashed bananas until well blended. Stir banana mixture and chocolate chips into flour mixture; stir just to moisten. Pour batter into prepared loaf pan.
+3. Bake in preheated oven for 50 to 55 minutes, until a toothpick inserted into center of the loaf comes out clean. Let bread cool in pan for at least minutes, then turn out onto a wire rack. Slice and serve warm!
+
+\newpage
 
 ## Pumpkin Bread
 
@@ -155,38 +229,61 @@
 
 # Breakfast
 
-## Blender Zucchini Bread
+## Bacon
+
+Bacon is gluten free. 
+
+How do you make a food taste better? Wrap it in bacon!
+
+\newpage
+
+## Store-bought Granola with Yogurt
+
+### Gluten Free Brands
+
+- Kind
+- Natures Path
+- Bear Naked
+- Udi's
 
 ### Ingredients
 
-- 1 cup neutral oil such as avocado or canola
-- 3 large eggs
-- 1 T vanilla extract
-- About 3 cups largely chopped zucchini
-- 2 cups sugar
-- 3 cups flour mix
-- 2 tsp Xanthan Gum (omit if flour mix already contains xanthan)
-- 1 tsp salt
-- 1 tsp Baking Powder
-- 2 tsp Baking Soda
-- 1 1/2 tsp cinnamon
-
-#### Chocolate Zucchini Bread
-
-- 2-4 T cocoa powder
-- 1 1/2 cups mini chocolate chips
-- additional 1/2 tsp baking soda
+- Granola
+- Yogurt (this is always gluten free)
+- Fruit
+    - Blueberry
+    - Strawberry
+    - Peach
+    - Mango
+    - Raspberry
 
 ### Instructions
 
-1. Blend oil, eggs, vanilla and 2 1/2 cups zucchini together in a blender until you have 4 cups mixture. Add more zucchini if needed to reach the 4 cups.
-2. Add remaining ingredients and blend until smooth.
-3. Spray loaf pans (8 mini or 2 regular, or any combination) fairly heavily with cooking spray, or grease generously with oil.
-4. Pour batter into pans.
-5. Preheat oven to 350 (letting batter sit while you preheat oven eliminates any gritty texture).
-6. Bake large loaves for 35-40 minutes, mini loaves 17-22 minutes, until toothpick inserted in center comes out clean. Be careful not to over bake, as they could become dry.
-7. Let cool in pans for 10 minutes before removing to cooling rack.
-8. Store in plastic bags in fridge up to 7 days, counter up to 4. or wrap in foil and place in freezer bag and freeze. Thaw at room temperature, in the fridge, or in 325 degree oven until warm.
+1. Add to yogurt and your favorite fruit.
+2. Enjoy!
+
+\newpage
+
+## Oatmeal with Toppings
+
+### Ingredients
+
+#### Mix-ins
+
+- honey
+- butter
+- nutella
+- fruit
+- maple syrup
+- cinnamon
+- peanut butter
+- almond butter
+
+### Instructions
+
+1. Follow the instructions for the oatmeal.
+2. Stir in your desired mix-ins.
+3. Enjoy!
 
 \newpage
 
@@ -216,6 +313,25 @@
 7. Pour batter onto griddle and cook until the tops are bubbly and bubbles start to pop. The bottoms should be a light golden brown.
 8. Flip pancakes and cook for another 30 seconds or so, until the other side is a light golden brown and the pancake is set.
 9. Serve pancakes with your favorite toppings. We love to enjoy these gluten free pancakes with homemade buttermilk syrup.
+
+\newpage
+
+## Hard Boiled Eggs
+
+### Ingredients
+
+- 6 eggs or however many you want!
+- water enough to completely submerge the eggs
+- 1 tablespoon olive oil or other oil
+- ice
+
+### Instructions
+
+1. Bring water and oil to a gentle boil in a pot large enough to lay the eggs in one layer.
+2. Add the eggs one at a time gently to the boiling water using a spoon.
+3. Boil for exactly 13 minutes for hard boiled eggs, or 10 for medium, and 3-6 for soft (depending on how runny you want the yolk. 4. Meanwhile, prepare an ice bath with about a tray's worth of ice and enough water to completely submerge the eggs.
+5. Remove the eggs with a slotted spoon and place immediately in ice bath.
+6. Allow to sit for at least 10 minutes in bath. 7. Peel gently, preferably under running cold running water.
 
 \newpage
 
@@ -284,32 +400,6 @@
 
 - Cottage cheese
 - Fruit: canned peaches, canned pears, berries, watermelon, etc...
-
-\newpage
-
-## Banana Bread (sugar free)
-
-### Ingredients
-
-- 2 cups gluten free flour recipe (see pg. 
-- 2 tsp. xanthum gum
-- 4-5 very ripe bananas, mashed (1½ cups)
-- ½ cup maple syrup
-- 1/4 cup butter, softened
-- 2 eggs
-- 2 tablespoons milk
-- ½ teaspoon vanilla
-- 2 teaspoon baking powder
-- 1 teaspoon baking soda
-- ¼ teaspoon salt
-- ½-1 cup chocolate chips (optional)
-- Brown sugar and cinnamon (if you want to sprinkle on top before you cook)
-
-### Instructions
-
-1. Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan, set aside.
-2. In a large bowl, combine flour, baking soda, baking powder, and salt, set aside. In a separate bowl, cream together butter and maple syrup. Stir in eggs, milk, vanilla, and mashed bananas until well blended. Stir banana mixture and chocolate chips into flour mixture; stir just to moisten. Pour batter into prepared loaf pan.
-3. Bake in preheated oven for 50 to 55 minutes, until a toothpick inserted into center of the loaf comes out clean. Let bread cool in pan for at least minutes, then turn out onto a wire rack. Slice and serve warm!
 
 \newpage
 
@@ -405,6 +495,76 @@ Servings: 12
 
 \newpage
 
+## Hash Browns
+
+### Gluten Free Brands
+
+- Oreida, Idaho Spuds
+- Most frozen hash browns are gluten free. The carton hash browns at Costco are easy. You simply add boiling water to them, let them rehydrate for 12 minutes, and then cook.
+
+\newpage
+
+## Apple Cider Donuts
+
+### Ingredients
+
+#### Donuts
+
+- 1 1/2 cups (210 g) all purpose gluten free flour (I used Better Batter)
+- 1/2 teaspoon xanthan gum (omit if your blend already contains it)
+- 1 1/2 teaspoons baking powder
+- 1/4 teaspoon baking soda
+- 1/4 teaspoon kosher salt
+- 1/4 teaspoon cream of tartar
+- 1 teaspoon ground cinnamon
+- 1/4 teaspoon freshly grated nutmeg
+- 3/4 cup (150 g) granulated sugar
+- 6 tablespoons (84 g) unsalted butter, at room temperature
+- 2 eggs (100 g, weighed out of shell) at room temperature, beaten
+- 3/4 cup (6 fluid ounces) apple cider
+
+#### Topping
+
+- 1/3 cup (67 g) granulated sugar
+- 1 teaspoon ground cinnamon
+
+### Instructions
+
+1. Preheat your oven to 325°F. Grease a standard donut pan and set it aside. See the post for a discussion of donut pans.
+2. In a large bowl, place the flour, xanthan gum, baking powder, baking soda, salt, cream of tartar, 1 teaspoon ground cinnamon, nutmeg, and 3/4 cup granulated sugar, and whisk to combine well. Create a well in the center of the flour mixture, and add the butter, eggs, and cider, and mix to combine. The batter will be very soft.
+3. Transfer the batter to a piping bag fitted with a plain tip or to a squeeze bottle. Squeeze the batter into the prepared doughnut wells until they are each about 3/4 of the way full. Shake the pan back and forth horizontally until the batter is in an even layer in each well. Place in the center of the preheated oven and bake until the tops of the donuts spring back when pressed gently (about 12 minutes). The underside will be browned, but the tops will still be relatively pale. Remove the pan from the oven and allow the donuts to cool for about 3 minutes, or until they are no longer too hot to touch.
+4. While the donuts cool slightly, place the cinnamon sugar topping ingredients into a small bowl. Gently remove the slightly cooled (but still warm) donuts from the doughnut pan with your fingertips and turn them around in the cinnamon sugar until they are well-coated on all sides. Place the finished donuts on a clean sheet of parchment paper. Serve immediately, or at least within a day or two stored uncovered at room temperature. Freeze any remaining leftovers in a sealed, freezer-safe container.
+5. Originally published on the blog in 2012. Images mostly new, video new, recipe tweaked only slightly.
+
+\newpage
+
+## Granola Bars (chocolate chip)
+
+Servings: 27 bars 
+
+### Ingredients
+
+- ½ cup coconut oil
+- ¾ cup honey
+- ¼ teaspoon salt
+- 1 ½ teaspoons vanilla extract
+- 4 cups old fashioned oats
+- 1 ½ cup brown rice crisp cereal
+- ½ cup mini chocolate chips
+
+### Instructions
+
+1. Preheat oven to 350 degrees F. Line a 13x9-inch baking dish with two pieces of parchment paper, perpendicular to each other. Let each piece of parchment overhang on two opposite sides of the pan.
+2. Place coconut oil, honey and salt in a small saucepan. Heat over low heat, stirring, until the mixture comes to a low boil. Continue to let it bubble as you stir it for 1-2 minutes. Remove from heat and stir in the vanilla. Let the mixture cool for 2-3 minutes.
+3. Meanwhile, in a large bowl, stir together the oats and brown rice crisp cereal.
+4. Pour the coconut oil and honey mixture over the oats and cereal in the bowl and stir until well combined. Stir in about 2/3 of the chocolate chips.
+5. Transfer the mixture to the prepared baking dish. Lay a piece of parchment across the top and use a rubber spatula and your hand to press it very firmly into the pan. Be sure to press the mixture down firmly to make sure that the bars will hold together when you cut them.
+6. Sprinkle on the remaining chocolate chips and gently press them into the top of the bars.
+7. Bake for 15 minutes. Let cool and then chill in the refrigerator for at least an hour before cutting into bars.
+8. Store granola bars wrapped airtight in the refrigerator for 1-2 weeks (we never have any left after 1 week!) or the freezer for up to 3 months.
+
+\newpage
+
 ## Breakfast Burritos
 
 ### Ingredients
@@ -433,32 +593,33 @@ Servings: 12
 
 \newpage
 
-## Pumpkin pancakes
+## Homemade Granola
 
 ### Ingredients
 
-- 1 1/4 cups GF flour
-- 1 tsp. xanthum gum
-- 2 tablespoons sugar
-- 4 teaspoons baking powder
-- 1/2 teaspoon cinnamon
-- 1/2 teaspoon ginger
-- 1/2 teaspoon nutmeg
-- 1/2 teaspoon salt
-- 1 pinch clove
-- 1 cup almond milk (can be any kind)
-- 6 tablespoons canned pumpkin puree
-- 2 tablespoons melted butter or coconut oil
-- 1 egg
+- 6 C. rolled oats
+- 1/2 C. Maple syrup (or brown sugar)
+- 1/4-1/2 C. sunflower seeds
+- 2 C. raw almonds
+- 1/2 C. Crasins
+- 1 tsp. cinnamon
+- Flaxseed 1/2 cup
+- You can put in whatever you want!
 
 ### Instructions
 
-1. Whisk flour, sugar, baking powder, spices and salt in a bowl.
-2. In a separate bowl whisk together milk, pumpkin, melted butter, and egg.
-3. Fold mixture into dry ingredients.
-4. Spray or grease a skillet and heat over medium heat: pour in 1/4 cup batter for each pancake.
-5. Cook pancakes about 3 minutes per side. Serve with butter and syrup.
-6. Makes about six 6-inch pancakes.
+1. Mix all ingredients except crasins. Stir in and coat thoroughly with:
+
+- 1/3 C. Olive oil (or coconut)
+- 1 tsp. vanilla
+- 2/3-3/4 C. honey (the more honey, the more stuck together it will be, I use 3/4 C.) 
+
+2. Spread mixture on greased cookie sheet or parchment paper-lined cookie sheet.  
+3. Bake at 325 degrees for 23-24 minutes.  
+4. Stir half way through or so for even color(I also add in the crasins halfway through so they are not so hard). 
+5. After mixing, smash down with a spoon so granola is tightly packed. 
+6. When done, do not mix, let set for chunky granola. If you want more separated granola, mix right away. Makes about 2 quarts.  
+7. When cool, store in sealed container for 1-2 weeks at room temperature, longer in the refrigerator.
 
 \newpage
 
@@ -513,6 +674,51 @@ Servings: 12
 2. Combine flour, sugar, salt, baking powder and cinnamon in medium bowl. Mix well.
 3. Add remaining ingredients; mix well.
 4. Fill muffin cups 3/4 full. Bake for approximately 20 minutes. Muffins are done when toothpick inserted in center comes out clean.
+
+\newpage
+
+## Vanilla Cake Donuts
+
+Prep time: 10 minutes
+
+Cook time: >12 minutes
+
+Yield: 12 standard-size donuts
+
+### Ingredients
+
+#### Donuts
+
+- 1 1/2 cups (210 g) all purpose gluten free flour (I used Better Batter)
+- 3/4 teaspoon xanthan gum (omit if your blend already contains it)
+- 1/4 cup (36 g) cornstarch
+- 1 1/2 teaspoons baking powder
+- 1/4 teaspoon baking soda
+- 1/4 teaspoon kosher salt
+- 1/2 teaspoon freshly grated nutmeg
+- 3/4 cup (150 g) granulated sugar
+- 8 tablespoons (112 g) unsalted butter, melted and cooled
+- 2 eggs (100 g, weighed out of shell) at room temperature, beaten
+- 3/4 cup (193 g) plain yogurt, at room temperature
+- 1 teaspoon vanilla bean paste (or 1 1/2 teaspoons pure vanilla extract)
+
+#### Glaze (optional)
+
+- 1 cup (115 g) confectioners’ sugar
+- 2 to 4 teaspoons milk or buttermilk
+
+#### Sugar coating (optional)
+
+- 4 tablespoons (56 g) unsalted butter, melted
+- 1/2 cup (100 g) granulated sugar
+
+### Instructions
+
+1. Preheat your oven to 350°F. Grease a standard-size donut pan and set it aside.
+2. In a large bowl, place the flour, xanthan gum, cornstarch, baking powder, baking soda, kosher salt, nutmeg, and sugar, and whisk to combine well. Create a well in the center of the dry ingredients, add the butter, eggs, yogurt, and vanilla, and mix until just combined. Fill the prepared wells of the donut pan until nearly full. For perfectly shaped donuts, place the donut batter into a piping bag fitted with a large, open tip, and pipe the batter into the wells. Wet the pointer finger of your dominant hand and run it along the center of each well of the donut pan to force the batter toward the perimeter of each well. This will help the donut hole from closing during baking.
+3. Place in the center of the preheated oven and bake for about 12 minutes or until the donuts are set and just lightly browned. Remove from the oven, and allow the donuts to cool in the pan for 5 minutes.
+4. If you’re planning to use the optional glaze, transfer the donuts to a wire rack to cool completely. In a small bowl, place the confectioners’ sugar and 2 teaspoons of milk, and mix well. Add more milk by the half-teaspoon until you have a smooth but thickly pourable glaze. Working quickly, dip the top of each cooled donut in the glaze, turn back and forth a bit to coat well, invert the donut so the glaze is facing upward, and place on a flat surface to set.
+5. If you’re using the optional sugar-coating, invert the donuts onto a wire rack while they’re still warm. Dip each donut carefully in the melted butter and then press into the granulated sugar before replacing on the wire rack. The sugar coating will harden as it cools.
 
 \newpage
 
@@ -1032,6 +1238,10 @@ Please supervise kids carefully when using the grater or knife. The vegetables c
 
 \newpage
 
+## Applesauce
+
+\newpage
+
 ## Homemade Salsa
 
 ### Ingredients
@@ -1096,6 +1306,10 @@ Please supervise kids carefully when using the grater or knife. The vegetables c
 
 \newpage
 
+## Canned Fruit
+
+\newpage
+
 ## Roasted Pecans
 
 ### Ingredients
@@ -1113,6 +1327,23 @@ Please supervise kids carefully when using the grater or knife. The vegetables c
 5. Place pan into oven and bake for 10 minutes, then stir gently, turning the pecans as you stir.
 6. Cook another 10 minutes, watching carefully to make sure they do not over brown
 7. Remove from the oven and allow to cool slightly.
+
+\newpage
+
+## Celery with Peanut/Almond Butter
+
+### Ingredients
+
+- Celery
+- Peanut Butter
+- Almond Butter (optional)
+
+### Instructions
+
+1. Wash the celery stalks.
+2. Cut the celery stalks to a desired length.
+3. Spread the peanut butter (or almond butter) on the cut celery stalks.
+4. Enjoy!
 
 \newpage
 
@@ -1147,6 +1378,20 @@ Please supervise kids carefully when using the grater or knife. The vegetables c
 2. Store in a ziploc bag or mason jar.
 3. Will keep for up to 1 month.
 4. Optional: If you really need the extra sweetness, you can coat the mix with 2 T maple syrup, spread it out on a baking sheet and allow it to dry before bagging.
+
+\newpage
+
+## Cottage Cheese with Chips
+
+### Ingredients
+
+- cottage cheese
+- gluten free potato chips
+
+### Instructions
+
+1. Eat the cottage cheese with the chips.
+2. Enjoy!
 
 \newpage
 
@@ -1493,6 +1738,27 @@ Could also do a Red Jello salad with strawberry jello and strawberries instead o
 
 1. Add water/broth to your rice cooker and then rice. 
 2. Use the 60 min setting. Brown rice takes longer to cook than white rice.
+
+\newpage
+
+## Caprese Salad
+
+### Ingredients
+
+- 2½ cups lightly packed fresh basil leaves rough chopped
+- 1½ teaspoons kosher salt
+- ½ cup extra-virgin olive oil
+- 6 slices fresh Mozzarella cheese whole-milk
+- 6 slices summer tomatoes
+- Flake sea salt and freshly ground black pepper to season
+- Fresh basil leaves for garnish
+
+## Instructions
+
+1. Place the basil and kosher salt in the bowl of a food processor and push the process button. While the basil is processing, slowly add the olive oil and continue processing until the basil/oil/salt mixture looks like a thin pesto sauce.
+2. Slice the mozzarella into 6 (1/4”) slices and slice the tomatoes into 6 (1/4”) slices.
+3. Alternate the cheese and tomato slices on a plate and drizzle with the basil-oil. Season lightly with flaked sea salt and freshly ground black pepper. Garnish with fresh basil leaves. Refrigerate, lightly covered, up to 1 hour or serve immediately.
+4. Enjoy!
 
 \newpage
 
@@ -2588,6 +2854,28 @@ Notes
 
 \newpage
 
+## Sausage and Black Bean Soup
+
+### Ingredients
+
+- 1 tablespoon vegetable oil
+- 1 onion, chopped
+- 2 cloves garlic, minced
+- 2 (15 ounce) can black beans, undrained
+- 1 (14.5 ounce) can stewed tomatoes
+- 1 (10.5 ounce) can condensed beef broth
+- 1/2 cup chunky salsa
+- 1/2 cup water
+- 12 ounces beef sausage
+- 1/4 cup chopped fresh cilantro
+
+### Instructions
+
+1. In a large saucepan over medium heat, combine the oil, onions and garlic. Saute for 8 minutes, or until tender. Add the beans, tomatoes with liquid, broth, salsa and water. Bring to a boil over high heat.
+2. Cut sausage into 1/2 inch slices and stir into soup. Reduce heat to low, cover and simmer for 15 minutes, stirring occasionally. Ladle soup into bowls and sprinkle with cilantro.
+
+\newpage
+
 ## Creamy Coconut Curry Chicken & Vegetable Soup
 
 ### Ingredients
@@ -2692,28 +2980,6 @@ Serves about 7
 2. Drain liquid from pan. Add the taco seasoning, tomatoes, corn, chiles, beans, cilantro and chicken broth to the pot and stir to combine. 
 3. Simmer over medium heat for 30 minutes, stirring occasionally. 
 4. Serve topped with crumbled tortilla chips and grated cheese.
-
-\newpage
-
-## Sausage and Black Bean Soup
-
-### Ingredients
-
-- 1 tablespoon vegetable oil
-- 1 onion, chopped
-- 2 cloves garlic, minced
-- 2 (15 ounce) can black beans, undrained
-- 1 (14.5 ounce) can stewed tomatoes
-- 1 (10.5 ounce) can condensed beef broth
-- 1/2 cup chunky salsa
-- 1/2 cup water
-- 12 ounces beef sausage
-- 1/4 cup chopped fresh cilantro
-
-### Instructions
-
-1. In a large saucepan over medium heat, combine the oil, onions and garlic. Saute for 8 minutes, or until tender. Add the beans, tomatoes with liquid, broth, salsa and water. Bring to a boil over high heat.
-2. Cut sausage into 1/2 inch slices and stir into soup. Reduce heat to low, cover and simmer for 15 minutes, stirring occasionally. Ladle soup into bowls and sprinkle with cilantro.
 
 \newpage
 
