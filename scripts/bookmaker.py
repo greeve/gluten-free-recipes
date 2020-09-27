@@ -26,6 +26,20 @@ MAIN_CATEGORIES = collections.OrderedDict([
     ('Dessert', None),
 ])
 
+HEADER = """---
+title: For My Gluten Free Missionary
+author: Adriana Reeve
+keywords: [gluten free, recipe, cookbook]
+abstract: |
+    A Gluten Free cookbook I made for my two Gluten Free boys in preparation for their mission.
+
+    This is the abstract.
+rights: ©2020
+language: en-US
+---
+
+"""
+
 
 def get_argument_parser():
     parser = argparse.ArgumentParser(
@@ -75,7 +89,8 @@ def main():
 
             recipes[category][sub_category][title] = ''.join(body).strip()
 
-    contents = '\\newpage\n\n'
+    contents = HEADER
+    contents += '\\newpage\n\n'
 
     for category, sub_categories in MAIN_CATEGORIES.items():
         print(category)
