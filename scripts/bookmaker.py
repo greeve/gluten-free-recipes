@@ -98,6 +98,7 @@ def main():
 
         if not sub_categories:
             titles = recipes[category]['recipes']
+            titles = dict(sorted(titles.items()))
             for title, title_content in titles.items():
                 contents += title_content
                 contents += '\n\n\\newpage\n\n'
@@ -106,11 +107,12 @@ def main():
                 print('  ', sub_category)
                 contents += '# {}\n\n'.format(sub_category)
                 titles = recipes[category][sub_category]
+                titles = dict(sorted(titles.items()))
                 for title, title_content in titles.items():
                     contents += title_content
                     contents += '\n\n\\newpage\n\n'
 
-    with open('bin/final_book.md', 'w') as fout:
+    with open('bin/gluten_free_missionary.md', 'w') as fout:
         fout.write(contents)
 
 
