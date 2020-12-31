@@ -411,12 +411,45 @@ $else$
 \maketitle
 \pagebreak
 $endif$
-$if(abstract)$
+
+\renewcommand{\abstractname}{Preface}
 \begin{abstract}
-$abstract$
+\noindent
+\begin{flushleft}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{0.12in}
+Our gluten free journey began in 2013 when my oldest son was about 7 years old and I took him to a well check up. The doctor told me that he had hardly grown in the last year (he was the shortest child in his class and his younger brother was taller than him at this point). The doctor told me that it was nothing to worry about and that when he hit puberty he would grow. I was worried and didn’t feel settled about the doctor’s response.
+
+In 2015 my 4th son (3 years old) began waking up at night, complaining of his legs hurting every few hours. Other health concerns began to show up as well: struggling to breathe at night (Asthma-like symptoms), legs and hands hurting, scratching his legs until he bled (eczema), etc… One night he was having such a hard time breathing we had to take him to the ER. He was diagnosed with Asthma and we began doing breathing treatments soon after. I never felt good about any of these solutions and I began to ask God for answers.
+
+In 2016 my oldest son (now 10 years old) was still the shortest in his class. At this time he was also complaining about diarrhea and he hated bread (perhaps because he knew how it made him feel). When I took him to his 10 year old well check up, he told the doctor his stomach hurt when he went to the bathroom (something he had never mentioned to me before). When they measured him, they told us he had hardly grown that year and was definitely not growing like my other children were. This time I asked the Doctor for answers (something other than puberty). Even though the doctor was reluctant to allow it, I asked for my son to be tested. I didn’t know what he needed to be tested for but I knew something was not right. When the test results came back, the doctor told me that my son had Celiac Disease. I had no idea what that was at this point but I began to research it. Right away, I knew that my younger son had the same thing.
+
+Our entire family was tested except for my husband and sure enough, my 4th son was also diagnosed with Celiac Disease. Something that I was not expecting was my diagnosis. I also had Celiac. I had no idea I had anything. I had always struggled with anxiety, fatigue, headaches and they had gotten worse after my 5th baby. After my 4th and 5th babies I also struggled with IBS and assumed it was caused by my pregnancies.
+
+To be able to truly diagnosis our boys, the Doctor told us that our boys needed to have an intestinal endoscopy, a small surgery where a camera goes down their throat to take pictures of their intestines. The pictures showed the damage that had been caused because of gluten. The picture of my oldest son’s small intestine showed the villi that lined his small intestine sorely damaged to the point where he hardly had any. Because the villi ad in absorbing nutrients, my son was not receiving the nutrients he was needing.
+
+Once the doctor told me that the only effective treatment for Celiac Disease was a strict lifelong gluten-free diet, I was depressed. I felt overwhelmed by the thought of having to change what we ate and watch everything we put into our mouths. I had no idea where to start and I felt alone. I prayed a lot.
+
+After reading numerous books and talking to many people I realized that our gut health had everything to do with our Celiac diagnosis. I learned that we needed to change our eating habits more than just taking gluten out of our diets. We needed to also lessen the amount of sugar we ate, include more vegetables, include bone marrow broth, and watch our blood sugar by eating proteins combined with healthy carbohydrates every time we put something into our mouths.
+
+I know that everyone’s journey is individual and life is not one size fits all. I also know that after making these dietary changes, we noticed big changes in our family. We call it a miracle. I had more energy, my headaches went away (as long as I stayed away from gluten), and I felt mentally healthier. My oldest son grew 4 inches in one year and is still growing! My 4th son sleeps through the night, no longer has Asthma and his eczema has gone away. And something that I was not expecting is that we don’t get sick as often as we used to. I haven’t taken a child to the doctor’s office for an infection since 2016. I don’t call that a coincidence. The journey is not over and we are still learning how to improve our gut health. We still enjoy treats like everyone else but I know that the changes we have made to our diets has improved our overall health. Life is so much better, believe me.
+
+I decided to create this cookbook for my oldest son (and hopefully my other children as well) who will one day serve a mission for the Church of Jesus Christ of Latter Day Saints. I hope it will be a valuable tool he can turn to as he learns to cook for himself and others. This cookbook has come from years of researching recipes, finding ones that even my husband (not gluten free) likes, and ones that are healthier or can be modified to include healthier options.
+
+I hope it can be a help for many others who are going through a gluten free journey at this time. I know God can help you like He did me.
+
+Please contact me if you ever need help along your journey: adriandgreg@gmail.com
+
+Update: After 3 years of eating gluten-free and changing my eating habits I no longer get headaches if I eat a little gluten. This does not mean I will begin eating gluten again, I just know that my gut is healing and life is better!
+\newline
+\newline
+$if(author)$
+$author$\\
+$endif$
+\today
+\end{flushleft}
 \end{abstract}
 \pagebreak
-$endif$
 $endif$
 
 $for(include-before)$
