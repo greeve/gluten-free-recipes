@@ -4,16 +4,16 @@ Dinner/Soups-Crockpot
 
 ### Ingredients
 
- - 3 boneless skinless chicken breasts 
+- 3 boneless skinless chicken breasts 
 - 1 yellow onion
- - 2 cloves of garlic
- - 3-4 medium carrots 
+- 2 cloves of garlic
+- 3-4 medium carrots 
 - 3 celery ribs
- - 2 quarts of chicken stock (I make my own, but you can buy it in the store) 
+- 2 quarts of chicken stock (I make my own, but you can buy it in the store) 
 - dried thyme 
 - 1 bay leaf 
 - Gluten free egg Noodles or brown rice noodles
- - kosher salt and fresh ground pepper
+- kosher salt and fresh ground pepper
 
 ### Instructions
 

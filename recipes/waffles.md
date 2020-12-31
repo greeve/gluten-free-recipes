@@ -21,4 +21,4 @@ Breakfast
 
 ### Notes
 
-My waffles took about 4 minutes to cook, and I used ⅓-1/2 cup of batter per waffle, but your waffle iron may be different. A good guideline is to wait until the waffle stops steaming. I've found that gluten-free waffles take a little longer to cook than traditional waffles.
+My waffles took about 4 minutes to cook, and I used 1/3-1/2 cup of batter per waffle, but your waffle iron may be different. A good guideline is to wait until the waffle stops steaming. I've found that gluten-free waffles take a little longer to cook than traditional waffles.

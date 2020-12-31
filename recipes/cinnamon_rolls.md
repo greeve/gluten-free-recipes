@@ -6,34 +6,34 @@ Breakfast
 
 #### Dough
 
-- ⅔ cup milk
+- 2/3 cup milk
 - 1 tablespoon butter
 - 1 packet (7 g) yeast
-- ¼ cup granulated sugar
-- ½ cup (83 g) potato starch
+- 1/4 cup granulated sugar
+- 1/2 cup (83 g) potato starch
 - 3/4 cup (80 g) brown rice flour (or Gluten Free Flour recipe)
-- ¼ cup (34 g) tapioca starch plus more for flouring your surface
-- ½ teaspoon baking soda
-- 1½ teaspoon xantham gum
-- 2½ teaspoon baking powder
-- ½ teaspoon salt
+- 1/4 cup (34 g) tapioca starch plus more for flouring your surface
+- 1/2 teaspoon baking soda
+- 1 1/2 teaspoon xantham gum
+- 2 1/2 teaspoon baking powder
+- 1/2 teaspoon salt
 - 1 large egg
-- ¼ cup olive oil
-- ½ teaspoon vanilla
+- 1/4 cup olive oil
+- 1/2 teaspoon vanilla
 - good quality plastic wrap for rolling out (and up!) the dough
 
 #### Filling
 
-- ⅓ cup butter, softened
-- ½ cup brown sugar
+- 1/3 cup butter, softened
+- 1/2 cup brown sugar
 - 1 tablespoon cinnamon
 
 #### Frosting
 
 - 3 tablespoons butter, softened
 - 2 tablespoons cream cheese, softened
-- ¾ cup powdered sugar
-- ½ teaspoon vanilla
+- 3/4 cup powdered sugar
+- 1/2 teaspoon vanilla
 - dash of salt
 
 ### Instructions
