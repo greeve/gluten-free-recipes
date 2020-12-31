@@ -2,14 +2,9 @@
 title: For My Gluten Free Missionary
 author: Adriana Reeve
 keywords: [gluten free, recipe, cookbook]
-abstract: |
-    A Gluten Free cookbook I made for my two Gluten Free boys in preparation for their mission.
-
-    This is the abstract.
 rights: ©2020
 language: en-US
 ---
-
 \newpage
 
 # Flour
@@ -391,34 +386,34 @@ How do you make a food taste better? Wrap it in bacon!
 
 #### Dough
 
-- ⅔ cup milk
+- 2/3 cup milk
 - 1 tablespoon butter
 - 1 packet (7 g) yeast
-- ¼ cup granulated sugar
-- ½ cup (83 g) potato starch
+- 1/4 cup granulated sugar
+- 1/2 cup (83 g) potato starch
 - 3/4 cup (80 g) brown rice flour (or Gluten Free Flour recipe)
-- ¼ cup (34 g) tapioca starch plus more for flouring your surface
-- ½ teaspoon baking soda
-- 1½ teaspoon xantham gum
-- 2½ teaspoon baking powder
-- ½ teaspoon salt
+- 1/4 cup (34 g) tapioca starch plus more for flouring your surface
+- 1/2 teaspoon baking soda
+- 1 1/2 teaspoon xantham gum
+- 2 1/2 teaspoon baking powder
+- 1/2 teaspoon salt
 - 1 large egg
-- ¼ cup olive oil
-- ½ teaspoon vanilla
+- 1/4 cup olive oil
+- 1/2 teaspoon vanilla
 - good quality plastic wrap for rolling out (and up!) the dough
 
 #### Filling
 
-- ⅓ cup butter, softened
-- ½ cup brown sugar
+- 1/3 cup butter, softened
+- 1/2 cup brown sugar
 - 1 tablespoon cinnamon
 
 #### Frosting
 
 - 3 tablespoons butter, softened
 - 2 tablespoons cream cheese, softened
-- ¾ cup powdered sugar
-- ½ teaspoon vanilla
+- 3/4 cup powdered sugar
+- 1/2 teaspoon vanilla
 - dash of salt
 
 ### Instructions
@@ -596,7 +591,8 @@ Servings: 27 bars
 
 1. Bring water and oil to a gentle boil in a pot large enough to lay the eggs in one layer.
 2. Add the eggs one at a time gently to the boiling water using a spoon.
-3. Boil for exactly 13 minutes for hard boiled eggs, or 10 for medium, and 3-6 for soft (depending on how runny you want the yolk. 4. Meanwhile, prepare an ice bath with about a tray's worth of ice and enough water to completely submerge the eggs.
+3. Boil for exactly 13 minutes for hard boiled eggs, or 10 for medium, and 3-6 for soft (depending on how runny you want the yolk.
+4. Meanwhile, prepare an ice bath with about a tray's worth of ice and enough water to completely submerge the eggs.
 5. Remove the eggs with a slotted spoon and place immediately in ice bath.
 6. Allow to sit for at least 10 minutes in bath. 7. Peel gently, preferably under running cold running water.
 
@@ -899,7 +895,7 @@ Yield: 12 standard-size donuts
 
 ### Notes
 
-My waffles took about 4 minutes to cook, and I used ⅓-1/2 cup of batter per waffle, but your waffle iron may be different. A good guideline is to wait until the waffle stops steaming. I've found that gluten-free waffles take a little longer to cook than traditional waffles.
+My waffles took about 4 minutes to cook, and I used 1/3-1/2 cup of batter per waffle, but your waffle iron may be different. A good guideline is to wait until the waffle stops steaming. I've found that gluten-free waffles take a little longer to cook than traditional waffles.
 
 \newpage
 
@@ -2710,6 +2706,7 @@ Sauce (Feel free to double the sauce if you like more sauce)
 - 4 tablespoons of cooking oil/fat of choice (Olive oil, Butter, Coconut oil, Ghee, etc.) – Butter is my preference, but coconut also works well for this dish.
 - Salt, as desired
 - Optional: other vegetables: celery, carrots, peppers, etc..
+- 1/2-1 cup chicken broth to thin it out
 
 ### Instructions
 
@@ -2726,6 +2723,7 @@ Sauce (Feel free to double the sauce if you like more sauce)
 11. Once the onions are translucent, throw in the cubed chickens. Cook lightly, and remove from heat.
 12. Add the meat, onion, and garlic mixture to the coconut curry blend.
 13. Let it cook for about 30 minutes or when the potatoes and chicken are cooked thoroughly (and try not to die of hunger with all that delicious coconut milk aroma in the air!).
+14. Add chicken broth if you like the curry thinner.
 
 \newpage
 
@@ -3093,6 +3091,38 @@ Sauce (Feel free to double the sauce if you like more sauce)
 
 \newpage
 
+## Bone Broth
+
+### Ingredients
+
+- 2 pounds (or more) of bones from a healthy source
+
+#### Optional:
+
+- 1 onion
+- 2 carrots (roughly chopped and not peeled)
+- 2 stalks of celery (roughly chopped)
+- 2 tablespoons Apple Cider Vinegar
+- 1 bunch of parsley
+- 1 tablespoon or more of sea salt
+- 1 teaspoon peppercorns
+- Additional herbs or spices to taste
+- Can also add 2 cloves of garlic for the last 30 minutes of cooking
+
+### Instructions
+
+1. Aim for 2 pounds of bones per gallon of water.
+2. If you are using raw bones, especially beef bones, it improves flavor to roast them in the oven first. Place them in a roasting pan and roast for 30 minutes at 350.
+3. Place the bones in a large crock pot. Pour (filtered) water over the bones and add the vinegar. Let sit for 20-30 minutes in the cool water. The acid helps make the nutrients in the bones more available.
+4. Rough chop and add the vegetables (except the parsley and garlic, if using) to the pot. Add any salt, pepper, spices, or herbs, if using.
+5. Let cook on low- 24 hours for chicken bones and 48 hours for beef.
+6. During the first few hours of simmering, you’ll need to remove the impurities that float to the surface. A frothy/foamy layer will form and it can be easily scooped off with a big spoon. Throw this part away. I typically check it every 20 minutes for the first 2 hours to remove this.
+7. During the last 30 minutes, add the garlic and parsley, if using.
+8. Remove from heat and let cool slightly. Strain using a fine metal strainer to remove all the bits of bone and vegetable.
+9. When cool enough, store in a gallon size glass jar in the fridge for up to 5 days, or freeze for later use.
+
+\newpage
+
 ## Chicken Enchilada Casserole
 
 Serves about 7
@@ -3126,16 +3156,16 @@ Serves about 7
 
 ### Ingredients
 
- - 3 boneless skinless chicken breasts 
+- 3 boneless skinless chicken breasts 
 - 1 yellow onion
- - 2 cloves of garlic
- - 3-4 medium carrots 
+- 2 cloves of garlic
+- 3-4 medium carrots 
 - 3 celery ribs
- - 2 quarts of chicken stock (I make my own, but you can buy it in the store) 
+- 2 quarts of chicken stock (I make my own, but you can buy it in the store) 
 - dried thyme 
 - 1 bay leaf 
 - Gluten free egg Noodles or brown rice noodles
- - kosher salt and fresh ground pepper
+- kosher salt and fresh ground pepper
 
 ### Instructions
 
@@ -3382,6 +3412,28 @@ Servings 6
 
 \newpage
 
+## Best Gluten-free Chocolate chip cookies ever
+
+### Ingredients
+
+- 2 eggs
+- 1/2 cup salted butter (softened)
+- 1/2 cup sugar
+- 1/2 cup brown sugar
+- 1 tsp baking soda
+- 1 tsp vanilla
+- 2 1/2 cups all purpose gluten free flour with xanthum gum (if doesn’t have any, add 2 tsp. Xanthum gum)
+- 1 1/2 -2 cups chocolate chips
+
+### Instructions
+
+1. Mix wet with the sugar. 
+2. Mix the dry ingredients. 
+3. Combine the wet with the dry.
+4. Bake at 350° F for 8-10 minutes.
+
+\newpage
+
 ## Carmel Fondue
 
 ### Ingredients
@@ -3485,68 +3537,6 @@ Servings 6
 5. Bake for 7 min on a greased pan or parchment paper pan. 
 6. Remove from oven when they are still undercooked. 
 7. Let them cool for 10 min, as they continue to cook. You can freeze left over dough.
-
-\newpage
-
-## Chocolate Chip Cookies (perfect but more time)
-
-### Ingredients
-
-- 2 1/4 cups Bob's Red Mill 1-to-1 all purpose baking flour (blend should include xanthan gum)
-- 1 tsp. baking soda
-- 1 tsp. salt
-- 2 ounces cream cheese, room temperature
-- 3/4 cup butter, slightly melted
-- 1 cup light brown sugar, packed
-- 1/2 cup sugar
-- 1 1/2 tsp. vanilla extract
-- 2 large egg yolks, room temperature
-- 2 cups semi-sweet chocolate chips
-
-### Instructions
-
-1. Mix together flour, baking soda and salt in a medium bowl and set aside.
-2. In your standing mixer using the paddle attachment, add cream cheese, melted butter, brown sugar and sugar. Mix on medium speed for 2 minutes.
-3. Add vanilla extract and egg yolks to mixer and continue to mix on low speed until ingredients are well combined.
-4. Slowly add the flour mixture to the wet mixture until all ingredients are well combined.
-5. Fold in chocolate chips by hand.
-6. Cover dough with plastic wrap and refrigerate for at least 4 hours (up to 4 days).
-7. About 15 minutes prior to baking, remove dough from your fridge and set it on your counter to soften. This will make the dough easier to handle.
-8. Preheat oven to 375 degrees.
-9. Line three cookie sheets with silicone liners or parchment paper.
-10. Grab dough and roll into approximately 1 in. dough balls. Set on baking sheets and gently press down to slightly flatten.
-11. You should have enough to make approximately 3 dozen cookies - 1 dozen per cookie sheet.
-12. Bake first sheet of cookies for 11-12 minutes or until edges are slightly browned.
-13. Remove from oven and allow cookies to cool on baking sheet for 5-10 minutes before transferring to a wire rack to cool completely.
-14. Continue to bake each sheet of cookies until all three dozen are cooked.
-15. Enjoy!
-
-\newpage
-
-## Chocolate Chip Cookies (soft)
-
-### Ingredients
-
-- 2 1/2 cups Grandpa’s Kitchen GF Flour (it can be any GF Flour as long as it has xanthum gum in it)
-- 1 tsp. baking soda
-- 1 tsp. salt
-- 3/4 cup butter, softened 
-- 1 cup packed brown sugar
-- 1 tsp. vanilla extract
-- 2 eggs
-- 2 cups chocolate chips (12 oz. pkg.)
-
-### Instructions
-
-1. Preheat oven to 375 degrees F. 
-2. Combine flour, baking soda and salt in small bowl. 
-3. Beat butter, sugars and vanilla in large bowl until creamy. 
-4. Add eggs, one at a time, beating well after each addition. 
-5. Gradually beat in flour mixture. 
-6. Stir in chocolate chips. 
-7. Drop by small rounded teaspoon onto ungreased cookie sheets. 
-8. Bake for 9-10 minutes or until golden brown. 
-9. Let continue to cook and cool for 2 minutes then remove to wire racks to cool completely.
 
 \newpage
 
