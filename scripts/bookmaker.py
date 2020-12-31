@@ -30,14 +30,9 @@ HEADER = """---
 title: For My Gluten Free Missionary
 author: Adriana Reeve
 keywords: [gluten free, recipe, cookbook]
-abstract: |
-    A Gluten Free cookbook I made for my two Gluten Free boys in preparation for their mission.
-
-    This is the abstract.
 rights: ©2020
 language: en-US
 ---
-
 """
 
 
