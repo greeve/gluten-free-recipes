@@ -21,7 +21,14 @@ language: en-US
 ### Instructions
 
 1. Mix thoroughly and keep in the refrigerator.
-2. You can use this flour as a substitute for anything.
+2. You can use this flour as a substitute for anything. 
+
+### Ready-made Gluten Free Flours You Can Buy
+
+- Cup4cup (online)
+- Namaste (Costco)
+- Grandpa’s Kitchen (my favorite- Smiths or Macey’s)
+- Walmart GF Flour (Wal Mart)
 
 \newpage
 
@@ -218,6 +225,34 @@ language: en-US
 5. Mix the dry and wet together slightly in the bread pan.
 6. Turn on the bread machine and bake on the basic setting. (My machine takes 3 hours and 5 minutes.)
 7. When the bread has finished cooking leave the bread in the bread pan for 15 mins and then turn out and let it cool.
+
+\newpage
+
+## The Most Like Wheat Rolls Rolls
+
+### Ingredients
+
+- 2 3/4 cups (11 1/2 oz.) very good quality gluten-free flour blend
+- 1 1/2 tsp. xanthan gum
+- 2 tsp. SAF instant yeast
+- 1/4 cup sugar
+- 1 tsp. salt
+- 1 cup warm water (105-110°)
+- 2 Tbsp. butter (or substitute)
+- 1 egg (preferably room temp)
+- 1 tsp. cider vinegar
+
+### Instructions
+
+1. In the mixing bowl of your electric mixer, mix together flour, xanthan gum, instant yeast, sugar, and salt.
+2. With mixer running on low speed, add in the hot water (be sure to test temperature with thermometer, melted butter (or substitute), egg, and cider vinegar.
+3. Mix on medium speed 3 minutes.
+4. Spray 8" or 9" round cake pan or pie plate with cooking spray. Using a 2" scoop or 1/3 cup measuring cup, scoop dough into 9 mounds in the pan. I place one mound in middle, then scoop 8 mounds of dough side by side all the way around the pan.
+5. Dip your fingertips into warm water and use to smooth out the tops of the rolls, continuing to wet fingers as needed.
+6. Cover with a dry towel and let rise in a warm place 45 minutes to 1 hour.
+7. During the last few minutes that the rolls are rising, preheat oven to 375°.
+8. Bake in 375° oven for 20-25 minutes. Tops should be golden brown and if you measure temperature of dough, it should measure 200°.
+9. Brush rolls with additional 1/2-1 Tablespoon of melted butter.
 
 \newpage
 
@@ -2528,6 +2563,43 @@ Takes 45 min. to make and feeds 6 people
 
 \newpage
 
+## Korean Rice Bowl (Bibimbap)
+
+### Ingredients
+
+#### Korean Beef
+
+- 1 lb beef (cut into thin pieces for stir fry)
+- 1/4 cup of brown sugar (can be omitted)
+- 1/4 cup GF soy sauce
+- 2 tsp. Garlic (diced fresh or in a jar)
+- 2 tsp. Sesame oil
+- 1/4 tsp. Red pepper flakes (optional)
+
+#### Sides
+
+- Cooked sushi rice
+- Egg (fried or boiled)
+- Toasted sesame seeds
+- Mushrooms (diced)
+- Carrots (thin small slices)
+- Spinach (diced)
+- Bean sprouts
+- Radishes (thin small slices)
+- Cucumber (thin small slices)
+- 2 Tbs. Olive oil for cooking meat
+
+### Instructions
+
+1. Cook the rice following instructions.
+2. Mix all beef ingredients together and marínate for at least 1/2 hour. The longer the better!
+3. Slice up vegetables and cook the eggs.
+4. Pour oil into a frying pan, cook marinated meat on med-high until no red. Be careful not to overcook.
+5. Serve meat, rice, vegetables and eggs together allowing guests to put what they like on their plate.
+6. Use chopsticks if you are brave!
+
+\newpage
+
 ## Kung Pao Chicken
 
 ### Ingredients
@@ -3412,6 +3484,33 @@ Servings 6
 
 \newpage
 
+## Best Gluten Free Vanilla Cake
+
+### Ingredients
+
+- 1 1/2 cups brown rice flour
+- 2/3 cup potato starch
+- 1/3 cup tapioca starch
+- 1/2 teaspoon kosher salt
+- 1 tablespoon baking powder
+- 1 teaspoon xanthan gum
+- 4 eggs
+- 2 cups white sugar
+- 1 cup buttermilk
+- 1 cup butter melted and cooled
+- 1 teaspoon vanilla extract
+
+### Instructions
+
+1. Preheat oven to 350 degrees. Grease (2) 8" round cake pans with butter and line the bottom of each pan with a greased parchment circle. Stir together the dry ingredients and set aside. Beat the eggs and the sugar together until creamy. Add half of the dry ingredients and beat again. Add the buttermilk, butter, vanilla and beat to combine. Add the remaining dry ingredients and beat just until combined.
+2. Divide the batter between the greased cake pans. Bake in the center of the oven for 35-40 minutes, until the cake is very lightly browned and a toothpick inserted in the center comes out clean. Remove and let cool at least 30 minutes, before inverting onto a wire rack to finish cooling. Frost as desired. Enjoy!
+
+#### Notes
+
+This recipe makes (40) cupcakes. Bake cupcakes at 350°F for 18 minutes.
+
+\newpage
+
 ## Best Gluten-free Chocolate chip cookies ever
 
 ### Ingredients
@@ -3644,6 +3743,60 @@ Yields 16 brownies
 
 \newpage
 
+## No Flour Monster Cookie Bars
+
+### Ingredients
+
+- 1/2 cup (1 stick) salted butter, softened
+- 1/2 cup packed brown sugar (can substitute brown sugar with coconut palm sugar)
+- 1 cup coconut palm sugar
+- 1 1/2 cups creamy peanut butter (NOT all-natural)
+- 3 large eggs
+- 1 tablespoon vanilla extract
+- 1 1/2 cups quick oats
+- 3 cups old-fashioned oats
+- 1 teaspoon baking soda
+- 1 1/2 cups mini m&m's
+- 1 cup miniature chocolate chips
+
+### Instructions
+
+1. Heat oven to 350 degrees. Prepare a cookie sheet by lining with parchment paper, silpat liner, or spraying with cooking spray.
+2. In a large bowl, or bowl of stand mixer with the paddle attachment, combine butter, brown sugar, palm sugar, and peanut butter. Mix until fluffy and pale in color. About 1-2 minutes.
+3. Add the eggs and vanilla extract. Mix together.
+4. Add in the oats and baking soda. Mix until combined.
+5. Add in the m&m's and chocolate chips (reserve some for top of bars if wanted). Stir together with a wooden spoon or spatula until combined.
+6. Dump dough onto the cookie sheet and spread out. This will take several minutes, but it can be done. It helps if you dollop spoonful's of dough all over the cookie sheet (rather than one pile in the middle) and then spread it out. Sprinkle the reserved m&m's and chocolate chips on top (if wanted). Press down slightly into dough.
+7. Bake for 20 minutes. The edges will be lightly browned and the middle will still look pale and underdone, but it will finish baking as it cools. Let cool for at least an hour so the bars can firm up and come together. You do not want to over-bake these!
+
+\newpage
+
+## Nutella Blondies
+
+Serves: 18
+
+### Ingredients
+
+- Cooking spray or parchment paper
+- 1/2 cup (1 stick) butter, melted
+- 1/4 cup brown sugar, packed (can substitute brown sugar for coconut palm sugar)
+- 1/4 cup coconut palm sugar
+- 1 egg, lightly beaten
+- 1 teaspoon of vanilla
+- 1 cup of gluten-free flour blend (I used my own but King Arthur's Multi-purpose or Bob's Red Mill 1 to 1 could work too)
+- 1/2 teaspoon baking powder
+- 1/8 teaspoon of baking soda
+- Pinch of salt
+- 1/2 cup Nutella, divided
+
+### Instructions
+
+1. Preheat the oven to 350°F and spray an 8x8 brownie pan with cooking spray. (If doubling the batch use a 9x11) Whisk together the melted butter, sugar, egg and vanilla extract in a medium bowl.
+2. Add the flour, baking soda, baking powder, and salt. Stir together until just incorporated and spread evenly into brownie pan. Dollop nutella in lines across the short end of the pan. Using a butter knife or spatula, spread evenly and then across the long way to make a wavy pattern.
+3. Bake for 20-25 minutes or until a toothpick comes out clean. Allow to cool completely. Cut into squares and serve.
+
+\newpage
+
 ## Peach Cobbler
 
 ### Ingredients
@@ -3872,34 +4025,6 @@ Yields 16 brownies
 4. Grease pan with oil spray or use parchment paper and pour in mixture. 
 5. Bake at 350 for 25-30 min
 6. Put on frosting of choice.
-
-\newpage
-
-## Vanilla Cake
-
-### Ingredients
-
-- 2 cups (280 g) all purpose gluten free flour (I used Better Batter)
-- 1/2 teaspoon kosher salt
-- 10 tablespoons (140 g) unsalted butter, at room temperature
-- 1 teaspoon xanthan gum (omit if your blend already contains it)
-- 1/4 cup + 2 tablespoons (54 g) cornstarch (or try arrowroot)*
-- 1/2 teaspoon baking soda
-- 2 teaspoons baking powder
-- 1 1/2 cups (300 g) granulated sugar
-- 2 teaspoons pure vanilla extract
-- 4 egg whites (100 g) + 1 whole egg (50 g, weighed out of shell), at room temperature**
-- 1 1/3 cups (10 2/3 fluid ounces) Greek yogurt, at room temperature.
-
-### Instructions
-
-1. Preheat your oven to 350°F. Grease 2 8-inch round cake pans and line the bottom of each with a round of parchment paper (trace the perimeter of the cake pan on the parchment, then cut out the circle). Set the pans aside.
-
-2. Into a medium-size bowl, sift (yes, you have to sift!) the flour, xanthan gum, cornstarch, baking soda and baking powder. Add the salt, and whisk to combine well. Set the dry ingredients aside. In the bowl of a stand mixer fitted with the paddle attachment or a large bowl with a handheld mixer, beat the butter, sugar and vanilla on medium-high speed for at least 3 minutes, stopping at least once to scrape the entire mixture off the sides and bottom of the bowl, or until very light and fluffy. Combine the egg whites, egg and buttermilk in a small bowl, and whisk to combine well. To the large bowl with the butter and sugar mixture, add the dry ingredients in 4 equal portions, alternating with the buttermilk and egg mixture in 3 parts, beginning and ending with the dry ingredients and mixing to combine in between additions. The batter will sometimes look a bit curdled. Once all of the ingredients have been added, beat for another minute on medium speed to ensure that everything is combined, then turn over the batter a few times by hand. It should be very thickly pourable and relatively smooth.
-
-3. Divide the batter evenly between the two prepared baking pans and smooth each into an even layer with an offset spatula. Place the baking pans in the center of the preheated oven and bake for 20 minutes. Rotate the pans, and continue to bake until the cakes are lightly golden brown all over, have begun to pull away from the sides of the pan and do not jiggle in the center at all (about another 10 minutes). I find that these tests for doneness are more useful than the toothpick test.
-
-4. Remove the cakes from the oven and allow to cool in the pans for 15 minutes before turning out onto a wire rack (and removing the parchment paper liners) to cool completely before frosting and serving. I frosted with 3 cups of a cream cheese buttercream frosting.
 
 \newpage
 
