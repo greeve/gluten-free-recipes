@@ -13,3 +13,10 @@ Flour
 
 1. Mix thoroughly and keep in the refrigerator.
 2. You can use this flour as a substitute for anything. 
+
+### Ready-made Gluten Free Flours You Can Buy
+
+- Cup4cup (online)
+- Namaste (Costco)
+- Grandpa’s Kitchen (my favorite- Smiths or Macey’s)
+- Walmart GF Flour (Wal Mart)

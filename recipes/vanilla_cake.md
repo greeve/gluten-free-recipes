@@ -1,27 +1,26 @@
 Dessert
 
-## Vanilla Cake
+## Best Gluten Free Vanilla Cake
 
 ### Ingredients
 
-- 2 cups (280 g) all purpose gluten free flour (I used Better Batter)
+- 1 1/2 cups brown rice flour
+- 2/3 cup potato starch
+- 1/3 cup tapioca starch
 - 1/2 teaspoon kosher salt
-- 10 tablespoons (140 g) unsalted butter, at room temperature
-- 1 teaspoon xanthan gum (omit if your blend already contains it)
-- 1/4 cup + 2 tablespoons (54 g) cornstarch (or try arrowroot)*
-- 1/2 teaspoon baking soda
-- 2 teaspoons baking powder
-- 1 1/2 cups (300 g) granulated sugar
-- 2 teaspoons pure vanilla extract
-- 4 egg whites (100 g) + 1 whole egg (50 g, weighed out of shell), at room temperature**
-- 1 1/3 cups (10 2/3 fluid ounces) Greek yogurt, at room temperature.
+- 1 tablespoon baking powder
+- 1 teaspoon xanthan gum
+- 4 eggs
+- 2 cups white sugar
+- 1 cup buttermilk
+- 1 cup butter melted and cooled
+- 1 teaspoon vanilla extract
 
 ### Instructions
 
-1. Preheat your oven to 350°F. Grease 2 8-inch round cake pans and line the bottom of each with a round of parchment paper (trace the perimeter of the cake pan on the parchment, then cut out the circle). Set the pans aside.
+1. Preheat oven to 350 degrees. Grease (2) 8" round cake pans with butter and line the bottom of each pan with a greased parchment circle. Stir together the dry ingredients and set aside. Beat the eggs and the sugar together until creamy. Add half of the dry ingredients and beat again. Add the buttermilk, butter, vanilla and beat to combine. Add the remaining dry ingredients and beat just until combined.
+2. Divide the batter between the greased cake pans. Bake in the center of the oven for 35-40 minutes, until the cake is very lightly browned and a toothpick inserted in the center comes out clean. Remove and let cool at least 30 minutes, before inverting onto a wire rack to finish cooling. Frost as desired. Enjoy!
 
-2. Into a medium-size bowl, sift (yes, you have to sift!) the flour, xanthan gum, cornstarch, baking soda and baking powder. Add the salt, and whisk to combine well. Set the dry ingredients aside. In the bowl of a stand mixer fitted with the paddle attachment or a large bowl with a handheld mixer, beat the butter, sugar and vanilla on medium-high speed for at least 3 minutes, stopping at least once to scrape the entire mixture off the sides and bottom of the bowl, or until very light and fluffy. Combine the egg whites, egg and buttermilk in a small bowl, and whisk to combine well. To the large bowl with the butter and sugar mixture, add the dry ingredients in 4 equal portions, alternating with the buttermilk and egg mixture in 3 parts, beginning and ending with the dry ingredients and mixing to combine in between additions. The batter will sometimes look a bit curdled. Once all of the ingredients have been added, beat for another minute on medium speed to ensure that everything is combined, then turn over the batter a few times by hand. It should be very thickly pourable and relatively smooth.
+#### Notes
 
-3. Divide the batter evenly between the two prepared baking pans and smooth each into an even layer with an offset spatula. Place the baking pans in the center of the preheated oven and bake for 20 minutes. Rotate the pans, and continue to bake until the cakes are lightly golden brown all over, have begun to pull away from the sides of the pan and do not jiggle in the center at all (about another 10 minutes). I find that these tests for doneness are more useful than the toothpick test.
-
-4. Remove the cakes from the oven and allow to cool in the pans for 15 minutes before turning out onto a wire rack (and removing the parchment paper liners) to cool completely before frosting and serving. I frosted with 3 cups of a cream cheese buttercream frosting.
+This recipe makes (40) cupcakes. Bake cupcakes at 350°F for 18 minutes.
